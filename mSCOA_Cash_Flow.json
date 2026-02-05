@@ -1,0 +1,7 @@
+[
+  {
+    "source_url": "refs/heads/main/Cash_Flow/*.csv",
+    "sink_folder": "mSCOA_Bronze_CashFlow",
+    "sink_file": "CashFlow_@{utcnow()}.csv"
+  }
+]

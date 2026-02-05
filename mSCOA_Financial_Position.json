@@ -1,0 +1,7 @@
+[
+  {
+    "source_url": "refs/heads/main/Financial_Position/*.csv",
+    "sink_folder": "mSCOA_Bronze_FinancialPosition",
+    "sink_file": "FinancialPosition_@{utcnow()}.csv"
+  }
+]

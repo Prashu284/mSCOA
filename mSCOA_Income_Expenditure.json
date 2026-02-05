@@ -1,0 +1,7 @@
+[
+  {
+    "source_url": "refs/heads/main/Income_Expenditure/*.csv",
+    "sink_folder": "mSCOA_Bronze_IncomeExpenditure",
+    "sink_file": "IncomeExpenditure_@{utcnow()}.csv"
+  }
+]
