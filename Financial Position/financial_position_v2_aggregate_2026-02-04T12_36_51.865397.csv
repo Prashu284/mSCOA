@@ -1,187 +1,187 @@
 amount_type.label,amount_type.code,financial_period.period,period_length.length,financial_year_end.year,item.composition,item.return_form_structure,item.position_in_return_form,item.label,item.code,demarcation.label,demarcation.code,amount.sum
-Audited Actual,AUDA,2019,year,2019,,line_item,3,Cash and cash equivalents,0120,Buffalo City,BUF,1171632910
-Audited Actual,AUDA,2019,year,2019,,line_item,4,Trade and other receivables from exchange transactions,0130,Buffalo City,BUF,834961139
-Audited Actual,AUDA,2019,year,2019,,line_item,5,Receivables from non-exchange transactions,0140,Buffalo City,BUF,679560229
-Audited Actual,AUDA,2019,year,2019,,line_item,6,Current portion of non-current receivables,0150,Buffalo City,BUF,
-Audited Actual,AUDA,2019,year,2019,,line_item,7,Inventory,0160,Buffalo City,BUF,37177518
-Audited Actual,AUDA,2019,year,2019,,line_item,8,VAT,0170,Buffalo City,BUF,4581157203
-Audited Actual,AUDA,2019,year,2019,,line_item,9,Other current assets,0180,Buffalo City,BUF,7805301
-Audited Actual,AUDA,2019,year,2019,,line_item,10,Non current assets,0190,Buffalo City,BUF,7312294300
-Audited Actual,AUDA,2019,year,2019,,line_item,13,Investment property,0220,Buffalo City,BUF,401546000
-Audited Actual,AUDA,2019,year,2019,,line_item,14,"Property, plant and equipment",0230,Buffalo City,BUF,19743463617
-Audited Actual,AUDA,2019,year,2019,,line_item,17,Heritage assets,0260,Buffalo City,BUF,49779875
-Audited Actual,AUDA,2019,year,2019,,line_item,18,Intangible assets,0270,Buffalo City,BUF,21139564
-Audited Actual,AUDA,2019,year,2019,,line_item,21,Other non-current assets,0300,Buffalo City,BUF,597883244
-Audited Actual,AUDA,2019,year,2019,,line_item,22,LIABILITIES,0310,Buffalo City,BUF,20813812300
-Audited Actual,AUDA,2019,year,2019,,line_item,23,Current liabilities,0320,Buffalo City,BUF,28126106600
-Audited Actual,AUDA,2019,year,2019,,line_item,27,Financial liabilities,0360,Buffalo City,BUF,57973556
-Audited Actual,AUDA,2019,year,2019,,line_item,28,Consumer deposits,0370,Buffalo City,BUF,71485373
-Audited Actual,AUDA,2019,year,2019,,line_item,29,Trade and other payables from exchange transactions,0380,Buffalo City,BUF,1042296652
-Audited Actual,AUDA,2019,year,2019,,line_item,30,Trade and other payables from non-exchange transactions,0390,Buffalo City,BUF,210610284
-Audited Actual,AUDA,2019,year,2019,,line_item,31,Provision,0400,Buffalo City,BUF,252039351
-Audited Actual,AUDA,2019,year,2019,,line_item,32,VAT,0410,Buffalo City,BUF,4582333287
-Audited Actual,AUDA,2019,year,2019,,line_item,33,Other current liabilities,0420,Buffalo City,BUF,702236
-Audited Actual,AUDA,2019,year,2019,,line_item,34,TOTAL LIABILITIES,0430,Buffalo City,BUF,6217440739
-Audited Actual,AUDA,2019,year,2019,,line_item,36,Financial liabilities,0450,Buffalo City,BUF,287580532
-Audited Actual,AUDA,2019,year,2019,,line_item,37,Provision,0460,Buffalo City,BUF,54372063
-Audited Actual,AUDA,2019,year,2019,,line_item,39,Other non-current liabilities,0480,Buffalo City,BUF,679562696
-Audited Actual,AUDA,2019,year,2019,,line_item,40,Total non current liabilities,0490,Buffalo City,BUF,1021515291
-Audited Actual,AUDA,2019,year,2019,,line_item,41,TOTAL LIABILITIES,0500,Buffalo City,BUF,7238956030
-Audited Actual,AUDA,2019,year,2019,,line_item,42,NET ASSETS,0510,Buffalo City,BUF,35365062630
-Audited Actual,AUDA,2019,year,2019,,line_item,43,Accumulated surplus/(deficit),0530,Buffalo City,BUF,11025512753
-Audited Actual,AUDA,2019,year,2019,,line_item,44,Reserves and funds,0540,Buffalo City,BUF,9866999401
-Audited Actual,AUDA,2019,year,2019,,line_item,45,TOTAL COMMUNITY WEALTH/EQUITY,0560,Buffalo City,BUF,20892512154
-Audited Actual,AUDA,2019,year,2019,,line_item,3,Cash and cash equivalents,0120,Cape Town,CPT,11131054438
-Audited Actual,AUDA,2019,year,2019,,line_item,4,Trade and other receivables from exchange transactions,0130,Cape Town,CPT,3093911383
-Audited Actual,AUDA,2019,year,2019,,line_item,5,Receivables from non-exchange transactions,0140,Cape Town,CPT,2756853861
-Audited Actual,AUDA,2019,year,2019,,line_item,6,Current portion of non-current receivables,0150,Cape Town,CPT,10291003
-Audited Actual,AUDA,2019,year,2019,,line_item,7,Inventory,0160,Cape Town,CPT,438057841
-Audited Actual,AUDA,2019,year,2019,,line_item,8,VAT,0170,Cape Town,CPT,415306152
-Audited Actual,AUDA,2019,year,2019,,line_item,9,Other current assets,0180,Cape Town,CPT,2919505
-Audited Actual,AUDA,2019,year,2019,,line_item,10,Non current assets,0190,Cape Town,CPT,17848394183
-Audited Actual,AUDA,2019,year,2019,,line_item,12,Investments,0210,Cape Town,CPT,4976370581
-Audited Actual,AUDA,2019,year,2019,,line_item,13,Investment property,0220,Cape Town,CPT,582961512
-Audited Actual,AUDA,2019,year,2019,,line_item,14,"Property, plant and equipment",0230,Cape Town,CPT,46280506804
-Audited Actual,AUDA,2019,year,2019,,line_item,17,Heritage assets,0260,Cape Town,CPT,10279738
-Audited Actual,AUDA,2019,year,2019,,line_item,18,Intangible assets,0270,Cape Town,CPT,697380319
-Audited Actual,AUDA,2019,year,2019,,line_item,20,Non-current receivables from non-exchange transactions,0290,Cape Town,CPT,217571184
-Audited Actual,AUDA,2019,year,2019,,line_item,21,Other non-current assets,0300,Cape Town,CPT,100
-Audited Actual,AUDA,2019,year,2019,,line_item,22,LIABILITIES,0310,Cape Town,CPT,52765070238
-Audited Actual,AUDA,2019,year,2019,,line_item,23,Current liabilities,0320,Cape Town,CPT,70613464421
-Audited Actual,AUDA,2019,year,2019,,line_item,27,Financial liabilities,0360,Cape Town,CPT,215589303
-Audited Actual,AUDA,2019,year,2019,,line_item,28,Consumer deposits,0370,Cape Town,CPT,431843928
-Audited Actual,AUDA,2019,year,2019,,line_item,29,Trade and other payables from exchange transactions,0380,Cape Town,CPT,4733226357
-Audited Actual,AUDA,2019,year,2019,,line_item,30,Trade and other payables from non-exchange transactions,0390,Cape Town,CPT,1181452982
-Audited Actual,AUDA,2019,year,2019,,line_item,31,Provision,0400,Cape Town,CPT,892364737
-Audited Actual,AUDA,2019,year,2019,,line_item,32,VAT,0410,Cape Town,CPT,545575692
-Audited Actual,AUDA,2019,year,2019,,line_item,33,Other current liabilities,0420,Cape Town,CPT,-126704797
-Audited Actual,AUDA,2019,year,2019,,line_item,34,TOTAL LIABILITIES,0430,Cape Town,CPT,7873348202
-Audited Actual,AUDA,2019,year,2019,,line_item,36,Financial liabilities,0450,Cape Town,CPT,6200434825
-Audited Actual,AUDA,2019,year,2019,,line_item,37,Provision,0460,Cape Town,CPT,964171427
-Audited Actual,AUDA,2019,year,2019,,line_item,39,Other non-current liabilities,0480,Cape Town,CPT,6162827994
-Audited Actual,AUDA,2019,year,2019,,line_item,40,Total non current liabilities,0490,Cape Town,CPT,13327434246
-Audited Actual,AUDA,2019,year,2019,,line_item,41,TOTAL LIABILITIES,0500,Cape Town,CPT,21200782448
-Audited Actual,AUDA,2019,year,2019,,line_item,42,NET ASSETS,0510,Cape Town,CPT,91814246869
-Audited Actual,AUDA,2019,year,2019,,line_item,43,Accumulated surplus/(deficit),0530,Cape Town,CPT,37875567999
-Audited Actual,AUDA,2019,year,2019,,line_item,44,Reserves and funds,0540,Cape Town,CPT,4798919590
-Audited Actual,AUDA,2019,year,2019,,line_item,45,Other,0550,Cape Town,CPT,323169755
-Audited Actual,AUDA,2019,year,2019,,line_item,45,TOTAL COMMUNITY WEALTH/EQUITY,0560,Cape Town,CPT,42997657344
-Audited Actual,AUDA,2019,year,2019,,line_item,3,Cash and cash equivalents,0120,City of Ekurhuleni,EKU,3529251789
-Audited Actual,AUDA,2019,year,2019,,line_item,4,Trade and other receivables from exchange transactions,0130,City of Ekurhuleni,EKU,4034628777
-Audited Actual,AUDA,2019,year,2019,,line_item,5,Receivables from non-exchange transactions,0140,City of Ekurhuleni,EKU,530707865
-Audited Actual,AUDA,2019,year,2019,,line_item,6,Current portion of non-current receivables,0150,City of Ekurhuleni,EKU,97515191
-Audited Actual,AUDA,2019,year,2019,,line_item,7,Inventory,0160,City of Ekurhuleni,EKU,1330457949
-Audited Actual,AUDA,2019,year,2019,,line_item,8,VAT,0170,City of Ekurhuleni,EKU,1280514528
-Audited Actual,AUDA,2019,year,2019,,line_item,9,Other current assets,0180,City of Ekurhuleni,EKU,121759795
-Audited Actual,AUDA,2019,year,2019,,line_item,10,Non current assets,0190,City of Ekurhuleni,EKU,10924835894
-Audited Actual,AUDA,2019,year,2019,,line_item,12,Investments,0210,City of Ekurhuleni,EKU,2093877735
-Audited Actual,AUDA,2019,year,2019,,line_item,13,Investment property,0220,City of Ekurhuleni,EKU,418550250
-Audited Actual,AUDA,2019,year,2019,,line_item,14,"Property, plant and equipment",0230,City of Ekurhuleni,EKU,57959859693
-Audited Actual,AUDA,2019,year,2019,,line_item,17,Heritage assets,0260,City of Ekurhuleni,EKU,69033512
-Audited Actual,AUDA,2019,year,2019,,line_item,18,Intangible assets,0270,City of Ekurhuleni,EKU,651431022
-Audited Actual,AUDA,2019,year,2019,,line_item,20,Non-current receivables from non-exchange transactions,0290,City of Ekurhuleni,EKU,2108469
-Audited Actual,AUDA,2019,year,2019,,line_item,21,Other non-current assets,0300,City of Ekurhuleni,EKU,4000106
-Audited Actual,AUDA,2019,year,2019,,line_item,22,LIABILITIES,0310,City of Ekurhuleni,EKU,61198860787
-Audited Actual,AUDA,2019,year,2019,,line_item,23,Current liabilities,0320,City of Ekurhuleni,EKU,72123696681
-Audited Actual,AUDA,2019,year,2019,,line_item,27,Financial liabilities,0360,City of Ekurhuleni,EKU,58013185
-Audited Actual,AUDA,2019,year,2019,,line_item,28,Consumer deposits,0370,City of Ekurhuleni,EKU,913329905
-Audited Actual,AUDA,2019,year,2019,,line_item,29,Trade and other payables from exchange transactions,0380,City of Ekurhuleni,EKU,6406352981
-Audited Actual,AUDA,2019,year,2019,,line_item,30,Trade and other payables from non-exchange transactions,0390,City of Ekurhuleni,EKU,980713824
-Audited Actual,AUDA,2019,year,2019,,line_item,31,Provision,0400,City of Ekurhuleni,EKU,3491609636
-Audited Actual,AUDA,2019,year,2019,,line_item,32,VAT,0410,City of Ekurhuleni,EKU,1133462695
-Audited Actual,AUDA,2019,year,2019,,line_item,33,Other current liabilities,0420,City of Ekurhuleni,EKU,722291
-Audited Actual,AUDA,2019,year,2019,,line_item,34,TOTAL LIABILITIES,0430,City of Ekurhuleni,EKU,12984204517
-Audited Actual,AUDA,2019,year,2019,,line_item,36,Financial liabilities,0450,City of Ekurhuleni,EKU,9016241036
-Audited Actual,AUDA,2019,year,2019,,line_item,37,Provision,0460,City of Ekurhuleni,EKU,75850594
-Audited Actual,AUDA,2019,year,2019,,line_item,39,Other non-current liabilities,0480,City of Ekurhuleni,EKU,41652466
-Audited Actual,AUDA,2019,year,2019,,line_item,40,Total non current liabilities,0490,City of Ekurhuleni,EKU,9133744096
-Audited Actual,AUDA,2019,year,2019,,line_item,41,TOTAL LIABILITIES,0500,City of Ekurhuleni,EKU,22117948613
-Audited Actual,AUDA,2019,year,2019,,line_item,42,NET ASSETS,0510,City of Ekurhuleni,EKU,94241645294
-Audited Actual,AUDA,2019,year,2019,,line_item,43,Accumulated surplus/(deficit),0530,City of Ekurhuleni,EKU,49476801840
-Audited Actual,AUDA,2019,year,2019,,line_item,44,Reserves and funds,0540,City of Ekurhuleni,EKU,528946143
-Audited Actual,AUDA,2019,year,2019,,line_item,45,Other,0550,City of Ekurhuleni,EKU,106
-Audited Actual,AUDA,2019,year,2019,,line_item,45,TOTAL COMMUNITY WEALTH/EQUITY,0560,City of Ekurhuleni,EKU,50005748089
-Audited Actual,AUDA,2019,year,2019,,line_item,3,Cash and cash equivalents,0120,eThekwini,ETH,
-Audited Actual,AUDA,2019,year,2019,,line_item,4,Trade and other receivables from exchange transactions,0130,eThekwini,ETH,471017952
-Audited Actual,AUDA,2019,year,2019,,line_item,5,Receivables from non-exchange transactions,0140,eThekwini,ETH,151092785
-Audited Actual,AUDA,2019,year,2019,,line_item,6,Current portion of non-current receivables,0150,eThekwini,ETH,106518
-Audited Actual,AUDA,2019,year,2019,,line_item,7,Inventory,0160,eThekwini,ETH,-10980430
-Audited Actual,AUDA,2019,year,2019,,line_item,8,VAT,0170,eThekwini,ETH,55460585
-Audited Actual,AUDA,2019,year,2019,,line_item,10,Non current assets,0190,eThekwini,ETH,666697410
-Audited Actual,AUDA,2019,year,2019,,line_item,13,Investment property,0220,eThekwini,ETH,-132835
-Audited Actual,AUDA,2019,year,2019,,line_item,14,"Property, plant and equipment",0230,eThekwini,ETH,-145952554
-Audited Actual,AUDA,2019,year,2019,,line_item,18,Intangible assets,0270,eThekwini,ETH,-28081951
-Audited Actual,AUDA,2019,year,2019,,line_item,20,Non-current receivables from non-exchange transactions,0290,eThekwini,ETH,1
-Audited Actual,AUDA,2019,year,2019,,line_item,21,Other non-current assets,0300,eThekwini,ETH,-1
-Audited Actual,AUDA,2019,year,2019,,line_item,22,LIABILITIES,0310,eThekwini,ETH,-174167340
-Audited Actual,AUDA,2019,year,2019,,line_item,23,Current liabilities,0320,eThekwini,ETH,492530070
-Audited Actual,AUDA,2019,year,2019,,line_item,29,Trade and other payables from exchange transactions,0380,eThekwini,ETH,468806451
-Audited Actual,AUDA,2019,year,2019,,line_item,30,Trade and other payables from non-exchange transactions,0390,eThekwini,ETH,-120000
-Audited Actual,AUDA,2019,year,2019,,line_item,31,Provision,0400,eThekwini,ETH,14208000
-Audited Actual,AUDA,2019,year,2019,,line_item,32,VAT,0410,eThekwini,ETH,-939336
-Audited Actual,AUDA,2019,year,2019,,line_item,33,Other current liabilities,0420,eThekwini,ETH,620362
-Audited Actual,AUDA,2019,year,2019,,line_item,34,TOTAL LIABILITIES,0430,eThekwini,ETH,482575477
-Audited Actual,AUDA,2019,year,2019,,line_item,41,TOTAL LIABILITIES,0500,eThekwini,ETH,482575477
-Audited Actual,AUDA,2019,year,2019,,line_item,42,NET ASSETS,0510,eThekwini,ETH,975105547
-Audited Actual,AUDA,2019,year,2019,,line_item,43,Accumulated surplus/(deficit),0530,eThekwini,ETH,12138078
-Audited Actual,AUDA,2019,year,2019,,line_item,45,TOTAL COMMUNITY WEALTH/EQUITY,0560,eThekwini,ETH,12138078
-Audited Actual,AUDA,2019,year,2019,,line_item,3,Cash and cash equivalents,0120,Mangaung,MAN,127986222
-Audited Actual,AUDA,2019,year,2019,,line_item,4,Trade and other receivables from exchange transactions,0130,Mangaung,MAN,1700638436
-Audited Actual,AUDA,2019,year,2019,,line_item,5,Receivables from non-exchange transactions,0140,Mangaung,MAN,685673959
-Audited Actual,AUDA,2019,year,2019,,line_item,6,Current portion of non-current receivables,0150,Mangaung,MAN,782033873
-Audited Actual,AUDA,2019,year,2019,,line_item,7,Inventory,0160,Mangaung,MAN,621266299
-Audited Actual,AUDA,2019,year,2019,,line_item,8,VAT,0170,Mangaung,MAN,2653747215
-Audited Actual,AUDA,2019,year,2019,,line_item,9,Other current assets,0180,Mangaung,MAN,47281458
-Audited Actual,AUDA,2019,year,2019,,line_item,10,Non current assets,0190,Mangaung,MAN,6618627462
-Audited Actual,AUDA,2019,year,2019,,line_item,12,Investments,0210,Mangaung,MAN,104150
-Audited Actual,AUDA,2019,year,2019,,line_item,13,Investment property,0220,Mangaung,MAN,1570113653
-Audited Actual,AUDA,2019,year,2019,,line_item,14,"Property, plant and equipment",0230,Mangaung,MAN,16404534790
-Audited Actual,AUDA,2019,year,2019,,line_item,17,Heritage assets,0260,Mangaung,MAN,279968687
-Audited Actual,AUDA,2019,year,2019,,line_item,18,Intangible assets,0270,Mangaung,MAN,91985805
-Audited Actual,AUDA,2019,year,2019,,line_item,20,Non-current receivables from non-exchange transactions,0290,Mangaung,MAN,-4218501
-Audited Actual,AUDA,2019,year,2019,,line_item,21,Other non-current assets,0300,Mangaung,MAN,1327172779
-Audited Actual,AUDA,2019,year,2019,,line_item,22,LIABILITIES,0310,Mangaung,MAN,19669661363
-Audited Actual,AUDA,2019,year,2019,,line_item,23,Current liabilities,0320,Mangaung,MAN,26288288825
-Audited Actual,AUDA,2019,year,2019,,line_item,27,Financial liabilities,0360,Mangaung,MAN,224012164
-Audited Actual,AUDA,2019,year,2019,,line_item,28,Consumer deposits,0370,Mangaung,MAN,152369399
-Audited Actual,AUDA,2019,year,2019,,line_item,29,Trade and other payables from exchange transactions,0380,Mangaung,MAN,2736830769
-Audited Actual,AUDA,2019,year,2019,,line_item,30,Trade and other payables from non-exchange transactions,0390,Mangaung,MAN,459078485
-Audited Actual,AUDA,2019,year,2019,,line_item,31,Provision,0400,Mangaung,MAN,929813968
-Audited Actual,AUDA,2019,year,2019,,line_item,32,VAT,0410,Mangaung,MAN,2639139104
-Audited Actual,AUDA,2019,year,2019,,line_item,33,Other current liabilities,0420,Mangaung,MAN,1071479158
-Audited Actual,AUDA,2019,year,2019,,line_item,34,TOTAL LIABILITIES,0430,Mangaung,MAN,8212723047
-Audited Actual,AUDA,2019,year,2019,,line_item,36,Financial liabilities,0450,Mangaung,MAN,1501198595
-Audited Actual,AUDA,2019,year,2019,,line_item,37,Provision,0460,Mangaung,MAN,169098640
-Audited Actual,AUDA,2019,year,2019,,line_item,39,Other non-current liabilities,0480,Mangaung,MAN,667850228
-Audited Actual,AUDA,2019,year,2019,,line_item,40,Total non current liabilities,0490,Mangaung,MAN,2338147463
-Audited Actual,AUDA,2019,year,2019,,line_item,41,TOTAL LIABILITIES,0500,Mangaung,MAN,10550870510
-Audited Actual,AUDA,2019,year,2019,,line_item,42,NET ASSETS,0510,Mangaung,MAN,36839159335
-Audited Actual,AUDA,2019,year,2019,,line_item,43,Accumulated surplus/(deficit),0530,Mangaung,MAN,14073838846
-Audited Actual,AUDA,2019,year,2019,,line_item,44,Reserves and funds,0540,Mangaung,MAN,2416401168
-Audited Actual,AUDA,2019,year,2019,,line_item,45,Other,0550,Mangaung,MAN,100
-Audited Actual,AUDA,2019,year,2019,,line_item,45,TOTAL COMMUNITY WEALTH/EQUITY,0560,Mangaung,MAN,16490240114
-Audited Actual,AUDA,2019,year,2019,,line_item,3,Cash and cash equivalents,0120,City of Tshwane,TSH,3273928284
-Audited Actual,AUDA,2019,year,2019,,line_item,4,Trade and other receivables from exchange transactions,0130,City of Tshwane,TSH,-2924675639
-Audited Actual,AUDA,2019,year,2019,,line_item,5,Receivables from non-exchange transactions,0140,City of Tshwane,TSH,-1623053268
-Audited Actual,AUDA,2019,year,2019,,line_item,6,Current portion of non-current receivables,0150,City of Tshwane,TSH,9874672
-Audited Actual,AUDA,2019,year,2019,,line_item,7,Inventory,0160,City of Tshwane,TSH,1460125943
-Audited Actual,AUDA,2019,year,2019,,line_item,10,Non current assets,0190,City of Tshwane,TSH,196199992
-Audited Actual,AUDA,2019,year,2019,,line_item,12,Investments,0210,City of Tshwane,TSH,-3273928284
-Audited Actual,AUDA,2019,year,2019,,line_item,13,Investment property,0220,City of Tshwane,TSH,2202146858
-Audited Actual,AUDA,2019,year,2019,,line_item,14,"Property, plant and equipment",0230,City of Tshwane,TSH,30094499552
-Audited Actual,AUDA,2019,year,2019,,line_item,15,Biological assets,0240,City of Tshwane,TSH,-1064136092
-Audited Actual,AUDA,2019,year,2019,,line_item,17,Heritage assets,0260,City of Tshwane,TSH,3370846811
-Audited Actual,AUDA,2019,year,2019,,line_item,18,Intangible assets,0270,City of Tshwane,TSH,-16185339
-Audited Actual,AUDA,2019,year,2019,,line_item,20,Non-current receivables from non-exchange transactions,0290,City of Tshwane,TSH,147108927
-Audited Actual,AUDA,2019,year,2019,,line_item,22,LIABILITIES,0310,City of Tshwane,TSH,31460352433
-Audited Actual,AUDA,2019,year,2019,,line_item,23,Current liabilities,0320,City of Tshwane,TSH,31656552425
-Audited Actual,AUDA,2019,year,2019,,line_item,27,Financial liabilities,0360,City of Tshwane,TSH,-906627759
-Audited Actual,AUDA,2019,year,2019,,line_item,29,Trade and other payables from exchange transactions,0380,City of Tshwane,TSH,3014938219
-Audited Actual,AUDA,2019,year,2019,,line_item,31,Provision,0400,City of Tshwane,TSH,2679733242
-Audited Actual,AUDA,2019,year,2019,,line_item,34,TOTAL LIABILITIES,0430,City of Tshwane,TSH,4788043702
-Audited Actual,AUDA,2019,year,2019,,line_item,36,Financial liabilities,0450,City of Tshwane,TSH,2373957494
-Audited Actual,AUDA,2019,year,2019,,line_item,40,Total non current liabilities,0490,City of Tshwane,TSH,2373957494
-Audited Actual,AUDA,2019,year,2019,,line_item,41,TOTAL LIABILITIES,0500,City of Tshwane,TSH,7162001196
-Audited Actual,AUDA,2019,year,2019,,line_item,42,NET ASSETS,0510,City of Tshwane,TSH,38818553621
-Audited Actual,AUDA,2019,year,2019,,line_item,44,Reserves and funds,0540,City of Tshwane,TSH,239389598
-Audited Actual,AUDA,2019,year,2019,,line_item,45,TOTAL COMMUNITY WEALTH/EQUITY,0560,City of Tshwane,TSH,239389598
+Audited Actual,AUDA,2019,year,2019,,line_item,3,Cash and cash equivalents,120,Buffalo City,BUF,1171632910
+Audited Actual,AUDA,2019,year,2019,,line_item,4,Trade and other receivables from exchange transactions,130,Buffalo City,BUF,834961139
+Audited Actual,AUDA,2019,year,2019,,line_item,5,Receivables from non-exchange transactions,140,Buffalo City,BUF,679560229
+Audited Actual,AUDA,2019,year,2019,,line_item,6,Current portion of non-current receivables,150,Buffalo City,BUF,
+Audited Actual,AUDA,2019,year,2019,,line_item,7,Inventory,160,Buffalo City,BUF,37177518
+Audited Actual,AUDA,2019,year,2019,,line_item,8,VAT,170,Buffalo City,BUF,4581157203
+Audited Actual,AUDA,2019,year,2019,,line_item,9,Other current assets,180,Buffalo City,BUF,7805301
+Audited Actual,AUDA,2019,year,2019,,line_item,10,Non current assets,190,Buffalo City,BUF,7312294300
+Audited Actual,AUDA,2019,year,2019,,line_item,13,Investment property,220,Buffalo City,BUF,401546000
+Audited Actual,AUDA,2019,year,2019,,line_item,14,"Property, plant and equipment",230,Buffalo City,BUF,19743463617
+Audited Actual,AUDA,2019,year,2019,,line_item,17,Heritage assets,260,Buffalo City,BUF,49779875
+Audited Actual,AUDA,2019,year,2019,,line_item,18,Intangible assets,270,Buffalo City,BUF,21139564
+Audited Actual,AUDA,2019,year,2019,,line_item,21,Other non-current assets,300,Buffalo City,BUF,597883244
+Audited Actual,AUDA,2019,year,2019,,line_item,22,LIABILITIES,310,Buffalo City,BUF,20813812300
+Audited Actual,AUDA,2019,year,2019,,line_item,23,Current liabilities,320,Buffalo City,BUF,28126106600
+Audited Actual,AUDA,2019,year,2019,,line_item,27,Financial liabilities,360,Buffalo City,BUF,57973556
+Audited Actual,AUDA,2019,year,2019,,line_item,28,Consumer deposits,370,Buffalo City,BUF,71485373
+Audited Actual,AUDA,2019,year,2019,,line_item,29,Trade and other payables from exchange transactions,380,Buffalo City,BUF,1042296652
+Audited Actual,AUDA,2019,year,2019,,line_item,30,Trade and other payables from non-exchange transactions,390,Buffalo City,BUF,210610284
+Audited Actual,AUDA,2019,year,2019,,line_item,31,Provision,400,Buffalo City,BUF,252039351
+Audited Actual,AUDA,2019,year,2019,,line_item,32,VAT,410,Buffalo City,BUF,4582333287
+Audited Actual,AUDA,2019,year,2019,,line_item,33,Other current liabilities,420,Buffalo City,BUF,702236
+Audited Actual,AUDA,2019,year,2019,,line_item,34,TOTAL LIABILITIES,430,Buffalo City,BUF,6217440739
+Audited Actual,AUDA,2019,year,2019,,line_item,36,Financial liabilities,450,Buffalo City,BUF,287580532
+Audited Actual,AUDA,2019,year,2019,,line_item,37,Provision,460,Buffalo City,BUF,54372063
+Audited Actual,AUDA,2019,year,2019,,line_item,39,Other non-current liabilities,480,Buffalo City,BUF,679562696
+Audited Actual,AUDA,2019,year,2019,,line_item,40,Total non current liabilities,490,Buffalo City,BUF,1021515291
+Audited Actual,AUDA,2019,year,2019,,line_item,41,TOTAL LIABILITIES,500,Buffalo City,BUF,7238956030
+Audited Actual,AUDA,2019,year,2019,,line_item,42,NET ASSETS,510,Buffalo City,BUF,35365062630
+Audited Actual,AUDA,2019,year,2019,,line_item,43,Accumulated surplus/(deficit),530,Buffalo City,BUF,11025512753
+Audited Actual,AUDA,2019,year,2019,,line_item,44,Reserves and funds,540,Buffalo City,BUF,9866999401
+Audited Actual,AUDA,2019,year,2019,,line_item,45,TOTAL COMMUNITY WEALTH/EQUITY,560,Buffalo City,BUF,20892512154
+Audited Actual,AUDA,2019,year,2019,,line_item,3,Cash and cash equivalents,120,Cape Town,CPT,11131054438
+Audited Actual,AUDA,2019,year,2019,,line_item,4,Trade and other receivables from exchange transactions,130,Cape Town,CPT,3093911383
+Audited Actual,AUDA,2019,year,2019,,line_item,5,Receivables from non-exchange transactions,140,Cape Town,CPT,2756853861
+Audited Actual,AUDA,2019,year,2019,,line_item,6,Current portion of non-current receivables,150,Cape Town,CPT,10291003
+Audited Actual,AUDA,2019,year,2019,,line_item,7,Inventory,160,Cape Town,CPT,438057841
+Audited Actual,AUDA,2019,year,2019,,line_item,8,VAT,170,Cape Town,CPT,415306152
+Audited Actual,AUDA,2019,year,2019,,line_item,9,Other current assets,180,Cape Town,CPT,2919505
+Audited Actual,AUDA,2019,year,2019,,line_item,10,Non current assets,190,Cape Town,CPT,17848394183
+Audited Actual,AUDA,2019,year,2019,,line_item,12,Investments,210,Cape Town,CPT,4976370581
+Audited Actual,AUDA,2019,year,2019,,line_item,13,Investment property,220,Cape Town,CPT,582961512
+Audited Actual,AUDA,2019,year,2019,,line_item,14,"Property, plant and equipment",230,Cape Town,CPT,46280506804
+Audited Actual,AUDA,2019,year,2019,,line_item,17,Heritage assets,260,Cape Town,CPT,10279738
+Audited Actual,AUDA,2019,year,2019,,line_item,18,Intangible assets,270,Cape Town,CPT,697380319
+Audited Actual,AUDA,2019,year,2019,,line_item,20,Non-current receivables from non-exchange transactions,290,Cape Town,CPT,217571184
+Audited Actual,AUDA,2019,year,2019,,line_item,21,Other non-current assets,300,Cape Town,CPT,100
+Audited Actual,AUDA,2019,year,2019,,line_item,22,LIABILITIES,310,Cape Town,CPT,52765070238
+Audited Actual,AUDA,2019,year,2019,,line_item,23,Current liabilities,320,Cape Town,CPT,70613464421
+Audited Actual,AUDA,2019,year,2019,,line_item,27,Financial liabilities,360,Cape Town,CPT,215589303
+Audited Actual,AUDA,2019,year,2019,,line_item,28,Consumer deposits,370,Cape Town,CPT,431843928
+Audited Actual,AUDA,2019,year,2019,,line_item,29,Trade and other payables from exchange transactions,380,Cape Town,CPT,4733226357
+Audited Actual,AUDA,2019,year,2019,,line_item,30,Trade and other payables from non-exchange transactions,390,Cape Town,CPT,1181452982
+Audited Actual,AUDA,2019,year,2019,,line_item,31,Provision,400,Cape Town,CPT,892364737
+Audited Actual,AUDA,2019,year,2019,,line_item,32,VAT,410,Cape Town,CPT,545575692
+Audited Actual,AUDA,2019,year,2019,,line_item,33,Other current liabilities,420,Cape Town,CPT,-126704797
+Audited Actual,AUDA,2019,year,2019,,line_item,34,TOTAL LIABILITIES,430,Cape Town,CPT,7873348202
+Audited Actual,AUDA,2019,year,2019,,line_item,36,Financial liabilities,450,Cape Town,CPT,6200434825
+Audited Actual,AUDA,2019,year,2019,,line_item,37,Provision,460,Cape Town,CPT,964171427
+Audited Actual,AUDA,2019,year,2019,,line_item,39,Other non-current liabilities,480,Cape Town,CPT,6162827994
+Audited Actual,AUDA,2019,year,2019,,line_item,40,Total non current liabilities,490,Cape Town,CPT,13327434246
+Audited Actual,AUDA,2019,year,2019,,line_item,41,TOTAL LIABILITIES,500,Cape Town,CPT,21200782448
+Audited Actual,AUDA,2019,year,2019,,line_item,42,NET ASSETS,510,Cape Town,CPT,91814246869
+Audited Actual,AUDA,2019,year,2019,,line_item,43,Accumulated surplus/(deficit),530,Cape Town,CPT,37875567999
+Audited Actual,AUDA,2019,year,2019,,line_item,44,Reserves and funds,540,Cape Town,CPT,4798919590
+Audited Actual,AUDA,2019,year,2019,,line_item,45,Other,550,Cape Town,CPT,323169755
+Audited Actual,AUDA,2019,year,2019,,line_item,45,TOTAL COMMUNITY WEALTH/EQUITY,560,Cape Town,CPT,42997657344
+Audited Actual,AUDA,2019,year,2019,,line_item,3,Cash and cash equivalents,120,City of Ekurhuleni,EKU,3529251789
+Audited Actual,AUDA,2019,year,2019,,line_item,4,Trade and other receivables from exchange transactions,130,City of Ekurhuleni,EKU,4034628777
+Audited Actual,AUDA,2019,year,2019,,line_item,5,Receivables from non-exchange transactions,140,City of Ekurhuleni,EKU,530707865
+Audited Actual,AUDA,2019,year,2019,,line_item,6,Current portion of non-current receivables,150,City of Ekurhuleni,EKU,97515191
+Audited Actual,AUDA,2019,year,2019,,line_item,7,Inventory,160,City of Ekurhuleni,EKU,1330457949
+Audited Actual,AUDA,2019,year,2019,,line_item,8,VAT,170,City of Ekurhuleni,EKU,1280514528
+Audited Actual,AUDA,2019,year,2019,,line_item,9,Other current assets,180,City of Ekurhuleni,EKU,121759795
+Audited Actual,AUDA,2019,year,2019,,line_item,10,Non current assets,190,City of Ekurhuleni,EKU,10924835894
+Audited Actual,AUDA,2019,year,2019,,line_item,12,Investments,210,City of Ekurhuleni,EKU,2093877735
+Audited Actual,AUDA,2019,year,2019,,line_item,13,Investment property,220,City of Ekurhuleni,EKU,418550250
+Audited Actual,AUDA,2019,year,2019,,line_item,14,"Property, plant and equipment",230,City of Ekurhuleni,EKU,57959859693
+Audited Actual,AUDA,2019,year,2019,,line_item,17,Heritage assets,260,City of Ekurhuleni,EKU,69033512
+Audited Actual,AUDA,2019,year,2019,,line_item,18,Intangible assets,270,City of Ekurhuleni,EKU,651431022
+Audited Actual,AUDA,2019,year,2019,,line_item,20,Non-current receivables from non-exchange transactions,290,City of Ekurhuleni,EKU,2108469
+Audited Actual,AUDA,2019,year,2019,,line_item,21,Other non-current assets,300,City of Ekurhuleni,EKU,4000106
+Audited Actual,AUDA,2019,year,2019,,line_item,22,LIABILITIES,310,City of Ekurhuleni,EKU,61198860787
+Audited Actual,AUDA,2019,year,2019,,line_item,23,Current liabilities,320,City of Ekurhuleni,EKU,72123696681
+Audited Actual,AUDA,2019,year,2019,,line_item,27,Financial liabilities,360,City of Ekurhuleni,EKU,58013185
+Audited Actual,AUDA,2019,year,2019,,line_item,28,Consumer deposits,370,City of Ekurhuleni,EKU,913329905
+Audited Actual,AUDA,2019,year,2019,,line_item,29,Trade and other payables from exchange transactions,380,City of Ekurhuleni,EKU,6406352981
+Audited Actual,AUDA,2019,year,2019,,line_item,30,Trade and other payables from non-exchange transactions,390,City of Ekurhuleni,EKU,980713824
+Audited Actual,AUDA,2019,year,2019,,line_item,31,Provision,400,City of Ekurhuleni,EKU,3491609636
+Audited Actual,AUDA,2019,year,2019,,line_item,32,VAT,410,City of Ekurhuleni,EKU,1133462695
+Audited Actual,AUDA,2019,year,2019,,line_item,33,Other current liabilities,420,City of Ekurhuleni,EKU,722291
+Audited Actual,AUDA,2019,year,2019,,line_item,34,TOTAL LIABILITIES,430,City of Ekurhuleni,EKU,12984204517
+Audited Actual,AUDA,2019,year,2019,,line_item,36,Financial liabilities,450,City of Ekurhuleni,EKU,9016241036
+Audited Actual,AUDA,2019,year,2019,,line_item,37,Provision,460,City of Ekurhuleni,EKU,75850594
+Audited Actual,AUDA,2019,year,2019,,line_item,39,Other non-current liabilities,480,City of Ekurhuleni,EKU,41652466
+Audited Actual,AUDA,2019,year,2019,,line_item,40,Total non current liabilities,490,City of Ekurhuleni,EKU,9133744096
+Audited Actual,AUDA,2019,year,2019,,line_item,41,TOTAL LIABILITIES,500,City of Ekurhuleni,EKU,22117948613
+Audited Actual,AUDA,2019,year,2019,,line_item,42,NET ASSETS,510,City of Ekurhuleni,EKU,94241645294
+Audited Actual,AUDA,2019,year,2019,,line_item,43,Accumulated surplus/(deficit),530,City of Ekurhuleni,EKU,49476801840
+Audited Actual,AUDA,2019,year,2019,,line_item,44,Reserves and funds,540,City of Ekurhuleni,EKU,528946143
+Audited Actual,AUDA,2019,year,2019,,line_item,45,Other,550,City of Ekurhuleni,EKU,106
+Audited Actual,AUDA,2019,year,2019,,line_item,45,TOTAL COMMUNITY WEALTH/EQUITY,560,City of Ekurhuleni,EKU,50005748089
+Audited Actual,AUDA,2019,year,2019,,line_item,3,Cash and cash equivalents,120,eThekwini,ETH,
+Audited Actual,AUDA,2019,year,2019,,line_item,4,Trade and other receivables from exchange transactions,130,eThekwini,ETH,471017952
+Audited Actual,AUDA,2019,year,2019,,line_item,5,Receivables from non-exchange transactions,140,eThekwini,ETH,151092785
+Audited Actual,AUDA,2019,year,2019,,line_item,6,Current portion of non-current receivables,150,eThekwini,ETH,106518
+Audited Actual,AUDA,2019,year,2019,,line_item,7,Inventory,160,eThekwini,ETH,-10980430
+Audited Actual,AUDA,2019,year,2019,,line_item,8,VAT,170,eThekwini,ETH,55460585
+Audited Actual,AUDA,2019,year,2019,,line_item,10,Non current assets,190,eThekwini,ETH,666697410
+Audited Actual,AUDA,2019,year,2019,,line_item,13,Investment property,220,eThekwini,ETH,-132835
+Audited Actual,AUDA,2019,year,2019,,line_item,14,"Property, plant and equipment",230,eThekwini,ETH,-145952554
+Audited Actual,AUDA,2019,year,2019,,line_item,18,Intangible assets,270,eThekwini,ETH,-28081951
+Audited Actual,AUDA,2019,year,2019,,line_item,20,Non-current receivables from non-exchange transactions,290,eThekwini,ETH,1
+Audited Actual,AUDA,2019,year,2019,,line_item,21,Other non-current assets,300,eThekwini,ETH,-1
+Audited Actual,AUDA,2019,year,2019,,line_item,22,LIABILITIES,310,eThekwini,ETH,-174167340
+Audited Actual,AUDA,2019,year,2019,,line_item,23,Current liabilities,320,eThekwini,ETH,492530070
+Audited Actual,AUDA,2019,year,2019,,line_item,29,Trade and other payables from exchange transactions,380,eThekwini,ETH,468806451
+Audited Actual,AUDA,2019,year,2019,,line_item,30,Trade and other payables from non-exchange transactions,390,eThekwini,ETH,-120000
+Audited Actual,AUDA,2019,year,2019,,line_item,31,Provision,400,eThekwini,ETH,14208000
+Audited Actual,AUDA,2019,year,2019,,line_item,32,VAT,410,eThekwini,ETH,-939336
+Audited Actual,AUDA,2019,year,2019,,line_item,33,Other current liabilities,420,eThekwini,ETH,620362
+Audited Actual,AUDA,2019,year,2019,,line_item,34,TOTAL LIABILITIES,430,eThekwini,ETH,482575477
+Audited Actual,AUDA,2019,year,2019,,line_item,41,TOTAL LIABILITIES,500,eThekwini,ETH,482575477
+Audited Actual,AUDA,2019,year,2019,,line_item,42,NET ASSETS,510,eThekwini,ETH,975105547
+Audited Actual,AUDA,2019,year,2019,,line_item,43,Accumulated surplus/(deficit),530,eThekwini,ETH,12138078
+Audited Actual,AUDA,2019,year,2019,,line_item,45,TOTAL COMMUNITY WEALTH/EQUITY,560,eThekwini,ETH,12138078
+Audited Actual,AUDA,2019,year,2019,,line_item,3,Cash and cash equivalents,120,Mangaung,MAN,127986222
+Audited Actual,AUDA,2019,year,2019,,line_item,4,Trade and other receivables from exchange transactions,130,Mangaung,MAN,1700638436
+Audited Actual,AUDA,2019,year,2019,,line_item,5,Receivables from non-exchange transactions,140,Mangaung,MAN,685673959
+Audited Actual,AUDA,2019,year,2019,,line_item,6,Current portion of non-current receivables,150,Mangaung,MAN,782033873
+Audited Actual,AUDA,2019,year,2019,,line_item,7,Inventory,160,Mangaung,MAN,621266299
+Audited Actual,AUDA,2019,year,2019,,line_item,8,VAT,170,Mangaung,MAN,2653747215
+Audited Actual,AUDA,2019,year,2019,,line_item,9,Other current assets,180,Mangaung,MAN,47281458
+Audited Actual,AUDA,2019,year,2019,,line_item,10,Non current assets,190,Mangaung,MAN,6618627462
+Audited Actual,AUDA,2019,year,2019,,line_item,12,Investments,210,Mangaung,MAN,104150
+Audited Actual,AUDA,2019,year,2019,,line_item,13,Investment property,220,Mangaung,MAN,1570113653
+Audited Actual,AUDA,2019,year,2019,,line_item,14,"Property, plant and equipment",230,Mangaung,MAN,16404534790
+Audited Actual,AUDA,2019,year,2019,,line_item,17,Heritage assets,260,Mangaung,MAN,279968687
+Audited Actual,AUDA,2019,year,2019,,line_item,18,Intangible assets,270,Mangaung,MAN,91985805
+Audited Actual,AUDA,2019,year,2019,,line_item,20,Non-current receivables from non-exchange transactions,290,Mangaung,MAN,-4218501
+Audited Actual,AUDA,2019,year,2019,,line_item,21,Other non-current assets,300,Mangaung,MAN,1327172779
+Audited Actual,AUDA,2019,year,2019,,line_item,22,LIABILITIES,310,Mangaung,MAN,19669661363
+Audited Actual,AUDA,2019,year,2019,,line_item,23,Current liabilities,320,Mangaung,MAN,26288288825
+Audited Actual,AUDA,2019,year,2019,,line_item,27,Financial liabilities,360,Mangaung,MAN,224012164
+Audited Actual,AUDA,2019,year,2019,,line_item,28,Consumer deposits,370,Mangaung,MAN,152369399
+Audited Actual,AUDA,2019,year,2019,,line_item,29,Trade and other payables from exchange transactions,380,Mangaung,MAN,2736830769
+Audited Actual,AUDA,2019,year,2019,,line_item,30,Trade and other payables from non-exchange transactions,390,Mangaung,MAN,459078485
+Audited Actual,AUDA,2019,year,2019,,line_item,31,Provision,400,Mangaung,MAN,929813968
+Audited Actual,AUDA,2019,year,2019,,line_item,32,VAT,410,Mangaung,MAN,2639139104
+Audited Actual,AUDA,2019,year,2019,,line_item,33,Other current liabilities,420,Mangaung,MAN,1071479158
+Audited Actual,AUDA,2019,year,2019,,line_item,34,TOTAL LIABILITIES,430,Mangaung,MAN,8212723047
+Audited Actual,AUDA,2019,year,2019,,line_item,36,Financial liabilities,450,Mangaung,MAN,1501198595
+Audited Actual,AUDA,2019,year,2019,,line_item,37,Provision,460,Mangaung,MAN,169098640
+Audited Actual,AUDA,2019,year,2019,,line_item,39,Other non-current liabilities,480,Mangaung,MAN,667850228
+Audited Actual,AUDA,2019,year,2019,,line_item,40,Total non current liabilities,490,Mangaung,MAN,2338147463
+Audited Actual,AUDA,2019,year,2019,,line_item,41,TOTAL LIABILITIES,500,Mangaung,MAN,10550870510
+Audited Actual,AUDA,2019,year,2019,,line_item,42,NET ASSETS,510,Mangaung,MAN,36839159335
+Audited Actual,AUDA,2019,year,2019,,line_item,43,Accumulated surplus/(deficit),530,Mangaung,MAN,14073838846
+Audited Actual,AUDA,2019,year,2019,,line_item,44,Reserves and funds,540,Mangaung,MAN,2416401168
+Audited Actual,AUDA,2019,year,2019,,line_item,45,Other,550,Mangaung,MAN,100
+Audited Actual,AUDA,2019,year,2019,,line_item,45,TOTAL COMMUNITY WEALTH/EQUITY,560,Mangaung,MAN,16490240114
+Audited Actual,AUDA,2019,year,2019,,line_item,3,Cash and cash equivalents,120,City of Tshwane,TSH,3273928284
+Audited Actual,AUDA,2019,year,2019,,line_item,4,Trade and other receivables from exchange transactions,130,City of Tshwane,TSH,-2924675639
+Audited Actual,AUDA,2019,year,2019,,line_item,5,Receivables from non-exchange transactions,140,City of Tshwane,TSH,-1623053268
+Audited Actual,AUDA,2019,year,2019,,line_item,6,Current portion of non-current receivables,150,City of Tshwane,TSH,9874672
+Audited Actual,AUDA,2019,year,2019,,line_item,7,Inventory,160,City of Tshwane,TSH,1460125943
+Audited Actual,AUDA,2019,year,2019,,line_item,10,Non current assets,190,City of Tshwane,TSH,196199992
+Audited Actual,AUDA,2019,year,2019,,line_item,12,Investments,210,City of Tshwane,TSH,-3273928284
+Audited Actual,AUDA,2019,year,2019,,line_item,13,Investment property,220,City of Tshwane,TSH,2202146858
+Audited Actual,AUDA,2019,year,2019,,line_item,14,"Property, plant and equipment",230,City of Tshwane,TSH,30094499552
+Audited Actual,AUDA,2019,year,2019,,line_item,15,Biological assets,240,City of Tshwane,TSH,-1064136092
+Audited Actual,AUDA,2019,year,2019,,line_item,17,Heritage assets,260,City of Tshwane,TSH,3370846811
+Audited Actual,AUDA,2019,year,2019,,line_item,18,Intangible assets,270,City of Tshwane,TSH,-16185339
+Audited Actual,AUDA,2019,year,2019,,line_item,20,Non-current receivables from non-exchange transactions,290,City of Tshwane,TSH,147108927
+Audited Actual,AUDA,2019,year,2019,,line_item,22,LIABILITIES,310,City of Tshwane,TSH,31460352433
+Audited Actual,AUDA,2019,year,2019,,line_item,23,Current liabilities,320,City of Tshwane,TSH,31656552425
+Audited Actual,AUDA,2019,year,2019,,line_item,27,Financial liabilities,360,City of Tshwane,TSH,-906627759
+Audited Actual,AUDA,2019,year,2019,,line_item,29,Trade and other payables from exchange transactions,380,City of Tshwane,TSH,3014938219
+Audited Actual,AUDA,2019,year,2019,,line_item,31,Provision,400,City of Tshwane,TSH,2679733242
+Audited Actual,AUDA,2019,year,2019,,line_item,34,TOTAL LIABILITIES,430,City of Tshwane,TSH,4788043702
+Audited Actual,AUDA,2019,year,2019,,line_item,36,Financial liabilities,450,City of Tshwane,TSH,2373957494
+Audited Actual,AUDA,2019,year,2019,,line_item,40,Total non current liabilities,490,City of Tshwane,TSH,2373957494
+Audited Actual,AUDA,2019,year,2019,,line_item,41,TOTAL LIABILITIES,500,City of Tshwane,TSH,7162001196
+Audited Actual,AUDA,2019,year,2019,,line_item,42,NET ASSETS,510,City of Tshwane,TSH,38818553621
+Audited Actual,AUDA,2019,year,2019,,line_item,44,Reserves and funds,540,City of Tshwane,TSH,239389598
+Audited Actual,AUDA,2019,year,2019,,line_item,45,TOTAL COMMUNITY WEALTH/EQUITY,560,City of Tshwane,TSH,239389598

@@ -1,17 +1,17 @@
 amount_type.label,amount_type.code,financial_period.period,period_length.length,financial_year_end.year,item.composition,item.return_form_structure,item.position_in_return_form,item.label,item.code,demarcation.label,demarcation.code,amount.sum
-Audited Actual,AUDA,2018,year,2018,,line_item,31,Cash/cash equivalents at the year begin:,0420,Buffalo City,BUF,1686673980
-Audited Actual,AUDA,2018,year,2018,,line_item,32,Cash/cash equivalents at the year end:,0430,Buffalo City,BUF,1686673980
-Audited Actual,AUDA,2018,year,2018,,line_item,31,Cash/cash equivalents at the year begin:,0420,Cape Town,CPT,721995636
-Audited Actual,AUDA,2018,year,2018,,line_item,32,Cash/cash equivalents at the year end:,0430,Cape Town,CPT,721995636
-Audited Actual,AUDA,2018,year,2018,,line_item,31,Cash/cash equivalents at the year begin:,0420,City of Ekurhuleni,EKU,4418901252
-Audited Actual,AUDA,2018,year,2018,,line_item,32,Cash/cash equivalents at the year end:,0430,City of Ekurhuleni,EKU,4418901252
-Audited Actual,AUDA,2018,year,2018,,line_item,5,Transfers and Subsidies - Operational,0150,City of Johannesburg,JHB,-1521541
-Audited Actual,AUDA,2018,year,2018,,line_item,31,Cash/cash equivalents at the year begin:,0420,City of Johannesburg,JHB,324728718
-Audited Actual,AUDA,2018,year,2018,,line_item,32,Cash/cash equivalents at the year end:,0430,City of Johannesburg,JHB,323207177
-Audited Actual,AUDA,2018,year,2018,,line_item,31,Cash/cash equivalents at the year begin:,0420,Mangaung,MAN,-620797
-Audited Actual,AUDA,2018,year,2018,,line_item,32,Cash/cash equivalents at the year end:,0430,Mangaung,MAN,-620797
-Audited Actual,AUDA,2018,year,2018,,line_item,31,Cash/cash equivalents at the year begin:,0420,Nelson Mandela Bay,NMA,1574148302
-Audited Actual,AUDA,2018,year,2018,,line_item,32,Cash/cash equivalents at the year end:,0430,Nelson Mandela Bay,NMA,1574148302
-Audited Actual,AUDA,2018,year,2018,,line_item,2,Property rates,0120,City of Tshwane,TSH,392344722
-Audited Actual,AUDA,2018,year,2018,,line_item,5,Transfers and Subsidies - Operational,0150,City of Tshwane,TSH,79805562
-Audited Actual,AUDA,2018,year,2018,,line_item,32,Cash/cash equivalents at the year end:,0430,City of Tshwane,TSH,472150284
+Audited Actual,AUDA,2018,year,2018,,line_item,31,Cash/cash equivalents at the year begin:,420,Buffalo City,BUF,1686673980
+Audited Actual,AUDA,2018,year,2018,,line_item,32,Cash/cash equivalents at the year end:,430,Buffalo City,BUF,1686673980
+Audited Actual,AUDA,2018,year,2018,,line_item,31,Cash/cash equivalents at the year begin:,420,Cape Town,CPT,721995636
+Audited Actual,AUDA,2018,year,2018,,line_item,32,Cash/cash equivalents at the year end:,430,Cape Town,CPT,721995636
+Audited Actual,AUDA,2018,year,2018,,line_item,31,Cash/cash equivalents at the year begin:,420,City of Ekurhuleni,EKU,4418901252
+Audited Actual,AUDA,2018,year,2018,,line_item,32,Cash/cash equivalents at the year end:,430,City of Ekurhuleni,EKU,4418901252
+Audited Actual,AUDA,2018,year,2018,,line_item,5,Transfers and Subsidies - Operational,150,City of Johannesburg,JHB,-1521541
+Audited Actual,AUDA,2018,year,2018,,line_item,31,Cash/cash equivalents at the year begin:,420,City of Johannesburg,JHB,324728718
+Audited Actual,AUDA,2018,year,2018,,line_item,32,Cash/cash equivalents at the year end:,430,City of Johannesburg,JHB,323207177
+Audited Actual,AUDA,2018,year,2018,,line_item,31,Cash/cash equivalents at the year begin:,420,Mangaung,MAN,-620797
+Audited Actual,AUDA,2018,year,2018,,line_item,32,Cash/cash equivalents at the year end:,430,Mangaung,MAN,-620797
+Audited Actual,AUDA,2018,year,2018,,line_item,31,Cash/cash equivalents at the year begin:,420,Nelson Mandela Bay,NMA,1574148302
+Audited Actual,AUDA,2018,year,2018,,line_item,32,Cash/cash equivalents at the year end:,430,Nelson Mandela Bay,NMA,1574148302
+Audited Actual,AUDA,2018,year,2018,,line_item,2,Property rates,120,City of Tshwane,TSH,392344722
+Audited Actual,AUDA,2018,year,2018,,line_item,5,Transfers and Subsidies - Operational,150,City of Tshwane,TSH,79805562
+Audited Actual,AUDA,2018,year,2018,,line_item,32,Cash/cash equivalents at the year end:,430,City of Tshwane,TSH,472150284

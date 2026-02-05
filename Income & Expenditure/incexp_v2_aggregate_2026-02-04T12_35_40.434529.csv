@@ -1,10 +1,10 @@
 amount_type.label,amount_type.code,financial_period.period,period_length.length,financial_year_end.year,item.composition,item.return_form_structure,item.position_in_return_form,item.label,item.code,demarcation.label,demarcation.code,amount.sum
-Audited Actual,AUDA,2019,year,2019,,line_item,2,Service charges - Electricity,0300,Buffalo City,BUF,1783481082
-Audited Actual,AUDA,2019,year,2019,,line_item,3,Service charges - Water,0400,Buffalo City,BUF,503580318
-Audited Actual,AUDA,2019,year,2019,,line_item,4,Service charges - Waste Water Management,0500,Buffalo City,BUF,328922573
-Audited Actual,AUDA,2019,year,2019,,line_item,5,Service charges - Waste Management,0600,Buffalo City,BUF,251916126
-Audited Actual,AUDA,2019,year,2019,,line_item,6,Sale of Goods and Rendering of Services,0700,Buffalo City,BUF,95054546
-Audited Actual,AUDA,2019,year,2019,,line_item,7,Agency services,0800,Buffalo City,BUF,26817734
+Audited Actual,AUDA,2019,year,2019,,line_item,2,Service charges - Electricity,300,Buffalo City,BUF,1783481082
+Audited Actual,AUDA,2019,year,2019,,line_item,3,Service charges - Water,400,Buffalo City,BUF,503580318
+Audited Actual,AUDA,2019,year,2019,,line_item,4,Service charges - Waste Water Management,500,Buffalo City,BUF,328922573
+Audited Actual,AUDA,2019,year,2019,,line_item,5,Service charges - Waste Management,600,Buffalo City,BUF,251916126
+Audited Actual,AUDA,2019,year,2019,,line_item,6,Sale of Goods and Rendering of Services,700,Buffalo City,BUF,95054546
+Audited Actual,AUDA,2019,year,2019,,line_item,7,Agency services,800,Buffalo City,BUF,26817734
 Audited Actual,AUDA,2019,year,2019,,line_item,9,Interest earned from Receivables,1000,Buffalo City,BUF,67093405
 Audited Actual,AUDA,2019,year,2019,,line_item,10,Interest earned from Current and Non Current Assets,1100,Buffalo City,BUF,98690424
 Audited Actual,AUDA,2019,year,2019,,line_item,13,Rental from Fixed Assets,1400,Buffalo City,BUF,22504973
@@ -33,12 +33,12 @@ Audited Actual,AUDA,2019,year,2019,,line_item,43,Transfers and subsidies - capit
 Audited Actual,AUDA,2019,year,2019,,line_item,44,Transfers and subsidies - capital (in-kind),4700,Buffalo City,BUF,279066643
 Audited Actual,AUDA,2019,year,2019,,line_item,45,Income Tax,4900,Buffalo City,BUF,602051
 Audited Actual,AUDA,2019,year,2019,,line_item,49,Intercompany/Parent subsidiary transactions,5500,Buffalo City,BUF,29847217
-Audited Actual,AUDA,2019,year,2019,,line_item,2,Service charges - Electricity,0300,Cape Town,CPT,13061833252
-Audited Actual,AUDA,2019,year,2019,,line_item,3,Service charges - Water,0400,Cape Town,CPT,3127642446
-Audited Actual,AUDA,2019,year,2019,,line_item,4,Service charges - Waste Water Management,0500,Cape Town,CPT,1600850587
-Audited Actual,AUDA,2019,year,2019,,line_item,5,Service charges - Waste Management,0600,Cape Town,CPT,1138907165
-Audited Actual,AUDA,2019,year,2019,,line_item,6,Sale of Goods and Rendering of Services,0700,Cape Town,CPT,672106116
-Audited Actual,AUDA,2019,year,2019,,line_item,7,Agency services,0800,Cape Town,CPT,229879168
+Audited Actual,AUDA,2019,year,2019,,line_item,2,Service charges - Electricity,300,Cape Town,CPT,13061833252
+Audited Actual,AUDA,2019,year,2019,,line_item,3,Service charges - Water,400,Cape Town,CPT,3127642446
+Audited Actual,AUDA,2019,year,2019,,line_item,4,Service charges - Waste Water Management,500,Cape Town,CPT,1600850587
+Audited Actual,AUDA,2019,year,2019,,line_item,5,Service charges - Waste Management,600,Cape Town,CPT,1138907165
+Audited Actual,AUDA,2019,year,2019,,line_item,6,Sale of Goods and Rendering of Services,700,Cape Town,CPT,672106116
+Audited Actual,AUDA,2019,year,2019,,line_item,7,Agency services,800,Cape Town,CPT,229879168
 Audited Actual,AUDA,2019,year,2019,,line_item,9,Interest earned from Receivables,1000,Cape Town,CPT,269100783
 Audited Actual,AUDA,2019,year,2019,,line_item,10,Interest earned from Current and Non Current Assets,1100,Cape Town,CPT,1136550270
 Audited Actual,AUDA,2019,year,2019,,line_item,13,Rental from Fixed Assets,1400,Cape Town,CPT,545869041
@@ -66,11 +66,11 @@ Audited Actual,AUDA,2019,year,2019,,line_item,41,Losses on disposal of Assets,42
 Audited Actual,AUDA,2019,year,2019,,line_item,42,Other Losses,4300,Cape Town,CPT,8284181
 Audited Actual,AUDA,2019,year,2019,,line_item,43,Transfers and subsidies - capital (monetary allocations),4600,Cape Town,CPT,2086966469
 Audited Actual,AUDA,2019,year,2019,,line_item,44,Transfers and subsidies - capital (in-kind),4700,Cape Town,CPT,2860153
-Audited Actual,AUDA,2019,year,2019,,line_item,2,Service charges - Electricity,0300,City of Ekurhuleni,EKU,13915463150
-Audited Actual,AUDA,2019,year,2019,,line_item,3,Service charges - Water,0400,City of Ekurhuleni,EKU,3873112371
-Audited Actual,AUDA,2019,year,2019,,line_item,4,Service charges - Waste Water Management,0500,City of Ekurhuleni,EKU,1477905512
-Audited Actual,AUDA,2019,year,2019,,line_item,5,Service charges - Waste Management,0600,City of Ekurhuleni,EKU,1319678215
-Audited Actual,AUDA,2019,year,2019,,line_item,6,Sale of Goods and Rendering of Services,0700,City of Ekurhuleni,EKU,1304028355
+Audited Actual,AUDA,2019,year,2019,,line_item,2,Service charges - Electricity,300,City of Ekurhuleni,EKU,13915463150
+Audited Actual,AUDA,2019,year,2019,,line_item,3,Service charges - Water,400,City of Ekurhuleni,EKU,3873112371
+Audited Actual,AUDA,2019,year,2019,,line_item,4,Service charges - Waste Water Management,500,City of Ekurhuleni,EKU,1477905512
+Audited Actual,AUDA,2019,year,2019,,line_item,5,Service charges - Waste Management,600,City of Ekurhuleni,EKU,1319678215
+Audited Actual,AUDA,2019,year,2019,,line_item,6,Sale of Goods and Rendering of Services,700,City of Ekurhuleni,EKU,1304028355
 Audited Actual,AUDA,2019,year,2019,,line_item,9,Interest earned from Receivables,1000,City of Ekurhuleni,EKU,401730829
 Audited Actual,AUDA,2019,year,2019,,line_item,10,Interest earned from Current and Non Current Assets,1100,City of Ekurhuleni,EKU,397694498
 Audited Actual,AUDA,2019,year,2019,,line_item,11,Dividends,1200,City of Ekurhuleni,EKU,181971
@@ -114,11 +114,11 @@ Audited Actual,AUDA,2019,year,2019,,line_item,40,Operational costs,4100,eThekwin
 Audited Actual,AUDA,2019,year,2019,,line_item,42,Other Losses,4300,eThekwini,ETH,10980430
 Audited Actual,AUDA,2019,year,2019,,line_item,43,Transfers and subsidies - capital (monetary allocations),4600,eThekwini,ETH,12000762
 Audited Actual,AUDA,2019,year,2019,,line_item,49,Intercompany/Parent subsidiary transactions,5500,eThekwini,ETH,939336
-Audited Actual,AUDA,2019,year,2019,,line_item,2,Service charges - Electricity,0300,Mangaung,MAN,2529042364
-Audited Actual,AUDA,2019,year,2019,,line_item,3,Service charges - Water,0400,Mangaung,MAN,797862171
-Audited Actual,AUDA,2019,year,2019,,line_item,4,Service charges - Waste Water Management,0500,Mangaung,MAN,323382929
-Audited Actual,AUDA,2019,year,2019,,line_item,5,Service charges - Waste Management,0600,Mangaung,MAN,120875771
-Audited Actual,AUDA,2019,year,2019,,line_item,6,Sale of Goods and Rendering of Services,0700,Mangaung,MAN,23208408
+Audited Actual,AUDA,2019,year,2019,,line_item,2,Service charges - Electricity,300,Mangaung,MAN,2529042364
+Audited Actual,AUDA,2019,year,2019,,line_item,3,Service charges - Water,400,Mangaung,MAN,797862171
+Audited Actual,AUDA,2019,year,2019,,line_item,4,Service charges - Waste Water Management,500,Mangaung,MAN,323382929
+Audited Actual,AUDA,2019,year,2019,,line_item,5,Service charges - Waste Management,600,Mangaung,MAN,120875771
+Audited Actual,AUDA,2019,year,2019,,line_item,6,Sale of Goods and Rendering of Services,700,Mangaung,MAN,23208408
 Audited Actual,AUDA,2019,year,2019,,line_item,9,Interest earned from Receivables,1000,Mangaung,MAN,223922296
 Audited Actual,AUDA,2019,year,2019,,line_item,10,Interest earned from Current and Non Current Assets,1100,Mangaung,MAN,20723920
 Audited Actual,AUDA,2019,year,2019,,line_item,11,Dividends,1200,Mangaung,MAN,1420
@@ -148,12 +148,12 @@ Audited Actual,AUDA,2019,year,2019,,line_item,41,Losses on disposal of Assets,42
 Audited Actual,AUDA,2019,year,2019,,line_item,42,Other Losses,4300,Mangaung,MAN,3644793
 Audited Actual,AUDA,2019,year,2019,,line_item,43,Transfers and subsidies - capital (monetary allocations),4600,Mangaung,MAN,796190658
 Audited Actual,AUDA,2019,year,2019,,line_item,49,Intercompany/Parent subsidiary transactions,5500,Mangaung,MAN,237443932
-Audited Actual,AUDA,2019,year,2019,,line_item,2,Service charges - Electricity,0300,City of Tshwane,TSH,10932547189
-Audited Actual,AUDA,2019,year,2019,,line_item,3,Service charges - Water,0400,City of Tshwane,TSH,4210864594
-Audited Actual,AUDA,2019,year,2019,,line_item,4,Service charges - Waste Water Management,0500,City of Tshwane,TSH,1126713186
-Audited Actual,AUDA,2019,year,2019,,line_item,5,Service charges - Waste Management,0600,City of Tshwane,TSH,1672577361
-Audited Actual,AUDA,2019,year,2019,,line_item,6,Sale of Goods and Rendering of Services,0700,City of Tshwane,TSH,567203964
-Audited Actual,AUDA,2019,year,2019,,line_item,8,Interest,0900,City of Tshwane,TSH,3352973
+Audited Actual,AUDA,2019,year,2019,,line_item,2,Service charges - Electricity,300,City of Tshwane,TSH,10932547189
+Audited Actual,AUDA,2019,year,2019,,line_item,3,Service charges - Water,400,City of Tshwane,TSH,4210864594
+Audited Actual,AUDA,2019,year,2019,,line_item,4,Service charges - Waste Water Management,500,City of Tshwane,TSH,1126713186
+Audited Actual,AUDA,2019,year,2019,,line_item,5,Service charges - Waste Management,600,City of Tshwane,TSH,1672577361
+Audited Actual,AUDA,2019,year,2019,,line_item,6,Sale of Goods and Rendering of Services,700,City of Tshwane,TSH,567203964
+Audited Actual,AUDA,2019,year,2019,,line_item,8,Interest,900,City of Tshwane,TSH,3352973
 Audited Actual,AUDA,2019,year,2019,,line_item,9,Interest earned from Receivables,1000,City of Tshwane,TSH,462508762
 Audited Actual,AUDA,2019,year,2019,,line_item,10,Interest earned from Current and Non Current Assets,1100,City of Tshwane,TSH,390073907
 Audited Actual,AUDA,2019,year,2019,,line_item,13,Rental from Fixed Assets,1400,City of Tshwane,TSH,142706969
