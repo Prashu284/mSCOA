@@ -1,22 +1,22 @@
 [
   {
-    "source_url": "refs/heads/main/Balance Sheet/*.csv",
+    "source_url": "refs/heads/main/Balance Sheet/*.xlsx",
     "sink_folder": "mSCOA_Bronze_BalanceSheet",
-    "sink_file": "BalanceSheet_@{utcnow()}.csv"
+    "sink_file": "BalanceSheet_@{utcnow()}.xlsx"
   },
   {
-    "source_url": "refs/heads/main/Cash Flow/*.csv",
+    "source_url": "refs/heads/main/Cash Flow/*.xlsx",
     "sink_folder": "mSCOA_Bronze_CashFlow",
-    "sink_file": "CashFlow_@{utcnow()}.csv"
+    "sink_file": "CashFlow_@{utcnow()}.xlsx"
   },
   {
-    "source_url": "refs/heads/main/Financial Position/*.csv",
+    "source_url": "refs/heads/main/Financial Position/*.xlsx",
     "sink_folder": "mSCOA_Bronze_FinancialPosition",
-    "sink_file": "FinancialPosition_@{utcnow()}.csv"
+    "sink_file": "FinancialPosition_@{utcnow()}.xlsx"
   },
   {
-    "source_url": "refs/heads/main/Income & Expenditure/*.csv",
+    "source_url": "refs/heads/main/Income & Expenditure/*.xlsx",
     "sink_folder": "mSCOA_Bronze_IncomeExpenditure",
-    "sink_file": "IncomeExpenditure_@{utcnow()}.csv"
+    "sink_file": "IncomeExpenditure_@{utcnow()}.xlsx"
   }
 ]
