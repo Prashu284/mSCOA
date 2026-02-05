@@ -1,0 +1,22 @@
+[
+  {
+    "source_url": "refs/heads/main/Balance Sheet/*.csv",
+    "sink_folder": "mSCOA_Bronze_BalanceSheet",
+    "sink_file": "BalanceSheet_@{utcnow()}.csv"
+  },
+  {
+    "source_url": "refs/heads/main/Cash Flow/*.csv",
+    "sink_folder": "mSCOA_Bronze_CashFlow",
+    "sink_file": "CashFlow_@{utcnow()}.csv"
+  },
+  {
+    "source_url": "refs/heads/main/Financial Position/*.csv",
+    "sink_folder": "mSCOA_Bronze_FinancialPosition",
+    "sink_file": "FinancialPosition_@{utcnow()}.csv"
+  },
+  {
+    "source_url": "refs/heads/main/Income & Expenditure/*.csv",
+    "sink_folder": "mSCOA_Bronze_IncomeExpenditure",
+    "sink_file": "IncomeExpenditure_@{utcnow()}.csv"
+  }
+]
