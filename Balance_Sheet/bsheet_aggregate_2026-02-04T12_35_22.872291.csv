@@ -1,4 +1,4 @@
-﻿amount_type.label,amount_type.code,financial_period.period,period_length.length,financial_year_end.year,item.composition,item.return_form_structure,item.position_in_return_form,item.label,item.code,demarcation.label,demarcation.code,amount.sum
+amount_type.label,amount_type.code,financial_period.period,period_length.length,financial_year_end.year,item.composition,item.return_form_structure,item.position_in_return_form,item.label,item.code,demarcation.label,demarcation.code,amount.sum
 Audited Actual,AUDA,2019,year,2019,,heading,1,COMMUNITY WEALTH / EQUITY,100,Buffalo City,BUF,
 Audited Actual,AUDA,2019,year,2019,,heading,2,Community Wealth,110,Buffalo City,BUF,
 Audited Actual,AUDA,2019,year,2019,,line_item,3,Housing Development Fund,600,Buffalo City,BUF,
