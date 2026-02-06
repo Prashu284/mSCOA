@@ -1,7 +1,10 @@
 [
   {
-    "source_url": "refs/heads/main/Income_Expenditure/*.csv",
+    "source_url": "refs/heads/main/Income_Expenditure/incexp_v2_aggregate_2026-02-04T12_35_40.434529.csv",
     "sink_folder": "mSCOA_Bronze_IncomeExpenditure",
-    "sink_file": "IncomeExpenditure_@{utcnow()}.csv"
+  },
+  {
+    "source_url": "refs/heads/main/Income_Expenditure/incexp_v2_aggregate_2026-02-04T12_35_49.435358.csv",
+    "sink_folder": "mSCOA_Bronze_IncomeExpenditure",
   }
 ]

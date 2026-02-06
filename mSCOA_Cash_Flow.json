@@ -1,7 +1,10 @@
 [
   {
-    "source_url": "refs/heads/main/Cash_Flow/*.csv",
+    "source_url": "refs/heads/main/Cash_Flow/cflow_v2_aggregate_2026-02-04T12_36_02.229335.csv",
     "sink_folder": "mSCOA_Bronze_CashFlow",
-    "sink_file": "CashFlow_@{utcnow()}.csv"
+  },
+  {
+    "source_url": "refs/heads/main/Cash_Flow/cflow_v2_aggregate_2026-02-04T12_36_18.297236.csv",
+    "sink_folder": "mSCOA_Bronze_CashFlow",
   }
 ]
