@@ -1,0 +1,401 @@
+amount_type.label,amount_type.code,financial_period.period,period_length.length,financial_year_end.year,item.composition,item.return_form_structure,item.position_in_return_form,item.label,item.code,demarcation.label,demarcation.code,amount.sum
+Audited Actual,AUDA,2019,year,2019,,heading,1,Cash Receipts by Source,3000,Buffalo City,BUF,0
+Audited Actual,AUDA,2019,year,2019,,line_item,2,Property rates,3010,Buffalo City,BUF,1295502964
+Audited Actual,AUDA,2019,year,2019,,line_item,3,Property rates - penalties & collection charges,3020,Buffalo City,BUF,0
+Audited Actual,AUDA,2019,year,2019,,line_item,4,Service charges - electricity revenue,3030,Buffalo City,BUF,1716442537
+Audited Actual,AUDA,2019,year,2019,,line_item,5,Service charges - water revenue,3040,Buffalo City,BUF,498963346
+Audited Actual,AUDA,2019,year,2019,,line_item,6,Service charges - sanitation revenue,3050,Buffalo City,BUF,328902160
+Audited Actual,AUDA,2019,year,2019,,line_item,7,Service charges - refuse revenue,3060,Buffalo City,BUF,251916126
+Audited Actual,AUDA,2019,year,2019,,line_item,8,Service charges - other,3070,Buffalo City,BUF,27688363
+Audited Actual,AUDA,2019,year,2019,,line_item,9,Rental of facilities and equipment,3080,Buffalo City,BUF,20704443
+Audited Actual,AUDA,2019,year,2019,,line_item,10,Interest earned - external investments,3090,Buffalo City,BUF,98690424
+Audited Actual,AUDA,2019,year,2019,,line_item,11,Interest earned - outstanding debtors,3100,Buffalo City,BUF,67093405
+Audited Actual,AUDA,2019,year,2019,,line_item,12,Dividends received,3110,Buffalo City,BUF,0
+Audited Actual,AUDA,2019,year,2019,,line_item,13,Fines,3120,Buffalo City,BUF,24938282
+Audited Actual,AUDA,2019,year,2019,,line_item,14,Licences and permits,3130,Buffalo City,BUF,14300355
+Audited Actual,AUDA,2019,year,2019,,line_item,15,Agency services,3140,Buffalo City,BUF,0
+Audited Actual,AUDA,2019,year,2019,,line_item,16,Transfer receipts - operational,3150,Buffalo City,BUF,921187160
+Audited Actual,AUDA,2019,year,2019,,line_item,17,Other revenue,3160,Buffalo City,BUF,384846926
+Audited Actual,AUDA,2019,year,2019,"sum(3010, 3020, 3030, 3040, 3050, 3060, 3070, 3080, 3090, 3100, 3110, 3120, 3130, 3140, 3150, 3160)",subtotal,18,Cash Receipts by Source,3170,Buffalo City,BUF,5651176491
+Audited Actual,AUDA,2019,year,2019,,heading,19,Other Cash Flows/Receipts by Source,3180,Buffalo City,BUF,0
+Audited Actual,AUDA,2019,year,2019,,line_item,20,Transfer receipts - capital,3190,Buffalo City,BUF,998245135
+Audited Actual,AUDA,2019,year,2019,,line_item,21,Contributions recognised - capital & Contributed assets,3200,Buffalo City,BUF,0
+Audited Actual,AUDA,2019,year,2019,,line_item,22,Proceeds on disposal of PPE,3210,Buffalo City,BUF,2226048
+Audited Actual,AUDA,2019,year,2019,,line_item,23,Short term loans,3220,Buffalo City,BUF,0
+Audited Actual,AUDA,2019,year,2019,,line_item,24,Borrowing long term/refinancing,3230,Buffalo City,BUF,0
+Audited Actual,AUDA,2019,year,2019,,line_item,25,Increase (decrease) in consumer deposits,3240,Buffalo City,BUF,0
+Audited Actual,AUDA,2019,year,2019,,line_item,26,Decrease (Increase) in non-current debtors,3250,Buffalo City,BUF,0
+Audited Actual,AUDA,2019,year,2019,,line_item,27,Decrease (increase) other non-current receivables,3260,Buffalo City,BUF,0
+Audited Actual,AUDA,2019,year,2019,,line_item,28,Decrease (increase) in non-current investments,3270,Buffalo City,BUF,0
+Audited Actual,AUDA,2019,year,2019,"sum(3190, 3200, 3210, 3220, 3230, 3240, 3250, 3260, 3270, 3170)",subtotal,29,Total Cash Receipts by Source,3280,Buffalo City,BUF,6651647674
+Audited Actual,AUDA,2019,year,2019,,heading,30,Cash Payments by Type,4000,Buffalo City,BUF,0
+Audited Actual,AUDA,2019,year,2019,,line_item,31,Employee related costs,4010,Buffalo City,BUF,2049668803
+Audited Actual,AUDA,2019,year,2019,,line_item,32,Remuneration of councillors,4020,Buffalo City,BUF,63065986
+Audited Actual,AUDA,2019,year,2019,,line_item,33,Collection costs,4030,Buffalo City,BUF,0
+Audited Actual,AUDA,2019,year,2019,,line_item,34,Interest paid,4040,Buffalo City,BUF,38467001
+Audited Actual,AUDA,2019,year,2019,,line_item,35,Bulk purchases - Electricity,4050,Buffalo City,BUF,1395328547
+Audited Actual,AUDA,2019,year,2019,,line_item,36,Bulk purchases - Water & Sewer,4060,Buffalo City,BUF,233628257
+Audited Actual,AUDA,2019,year,2019,,line_item,37,Other materials,4070,Buffalo City,BUF,392895827
+Audited Actual,AUDA,2019,year,2019,,line_item,38,Contracted services,4080,Buffalo City,BUF,6449136
+Audited Actual,AUDA,2019,year,2019,,line_item,39,Grants and subsidies paid - other municipalities,4090,Buffalo City,BUF,0
+Audited Actual,AUDA,2019,year,2019,,line_item,40,Grants and subsidies paid - other,4100,Buffalo City,BUF,47193237
+Audited Actual,AUDA,2019,year,2019,,line_item,41,General expenses,4110,Buffalo City,BUF,903293316
+Audited Actual,AUDA,2019,year,2019,"sum(4010, 4020, 4030, 4040, 4050, 4060, 4070, 4080, 4090, 4100, 4110)",subtotal,42,Cash Payments by Type,4120,Buffalo City,BUF,5129990110
+Audited Actual,AUDA,2019,year,2019,,heading,43,Other Cash Flows/Payments by Type,4130,Buffalo City,BUF,0
+Audited Actual,AUDA,2019,year,2019,,line_item,44,Capital assets,4140,Buffalo City,BUF,1760014735
+Audited Actual,AUDA,2019,year,2019,,line_item,45,Repayment of borrowing,4150,Buffalo City,BUF,52572023
+Audited Actual,AUDA,2019,year,2019,,line_item,46,Other Cash Flows/Payments,4160,Buffalo City,BUF,362934482
+Audited Actual,AUDA,2019,year,2019,"sum(4140, 4150, 4160, 4120)",subtotal,47,Total Cash Payments by Type,4170,Buffalo City,BUF,7305511350
+Audited Actual,AUDA,2019,year,2019,3280 - 4170,subtotal,48,Net Increase/(Decrease) in Cash Held,4180,Buffalo City,BUF,-653863676
+Audited Actual,AUDA,2019,year,2019,,line_item,49,Cash/cash equivalents at the month/year begin:,4190,Buffalo City,BUF,1825496588
+Audited Actual,AUDA,2019,year,2019,4180 + 4190,subtotal,50,Cash/cash equivalents at the month/year end:,4200,Buffalo City,BUF,1171632912
+Audited Actual,AUDA,2019,year,2019,,heading,1,Cash Receipts by Source,3000,Cape Town,CPT,0
+Audited Actual,AUDA,2019,year,2019,,line_item,2,Property rates,3010,Cape Town,CPT,38816489000
+Audited Actual,AUDA,2019,year,2019,,line_item,3,Property rates - penalties & collection charges,3020,Cape Town,CPT,0
+Audited Actual,AUDA,2019,year,2019,,line_item,4,Service charges - electricity revenue,3030,Cape Town,CPT,0
+Audited Actual,AUDA,2019,year,2019,,line_item,5,Service charges - water revenue,3040,Cape Town,CPT,0
+Audited Actual,AUDA,2019,year,2019,,line_item,6,Service charges - sanitation revenue,3050,Cape Town,CPT,0
+Audited Actual,AUDA,2019,year,2019,,line_item,7,Service charges - refuse revenue,3060,Cape Town,CPT,0
+Audited Actual,AUDA,2019,year,2019,,line_item,8,Service charges - other,3070,Cape Town,CPT,0
+Audited Actual,AUDA,2019,year,2019,,line_item,9,Rental of facilities and equipment,3080,Cape Town,CPT,0
+Audited Actual,AUDA,2019,year,2019,,line_item,10,Interest earned - external investments,3090,Cape Town,CPT,1193654000
+Audited Actual,AUDA,2019,year,2019,,line_item,11,Interest earned - outstanding debtors,3100,Cape Town,CPT,254134000
+Audited Actual,AUDA,2019,year,2019,,line_item,12,Dividends received,3110,Cape Town,CPT,0
+Audited Actual,AUDA,2019,year,2019,,line_item,13,Fines,3120,Cape Town,CPT,0
+Audited Actual,AUDA,2019,year,2019,,line_item,14,Licences and permits,3130,Cape Town,CPT,0
+Audited Actual,AUDA,2019,year,2019,,line_item,15,Agency services,3140,Cape Town,CPT,0
+Audited Actual,AUDA,2019,year,2019,,line_item,16,Transfer receipts - operational,3150,Cape Town,CPT,0
+Audited Actual,AUDA,2019,year,2019,,line_item,17,Other revenue,3160,Cape Town,CPT,0
+Audited Actual,AUDA,2019,year,2019,"sum(3010, 3020, 3030, 3040, 3050, 3060, 3070, 3080, 3090, 3100, 3110, 3120, 3130, 3140, 3150, 3160)",subtotal,18,Cash Receipts by Source,3170,Cape Town,CPT,40264277000
+Audited Actual,AUDA,2019,year,2019,,heading,19,Other Cash Flows/Receipts by Source,3180,Cape Town,CPT,0
+Audited Actual,AUDA,2019,year,2019,,line_item,20,Transfer receipts - capital,3190,Cape Town,CPT,0
+Audited Actual,AUDA,2019,year,2019,,line_item,21,Contributions recognised - capital & Contributed assets,3200,Cape Town,CPT,0
+Audited Actual,AUDA,2019,year,2019,,line_item,22,Proceeds on disposal of PPE,3210,Cape Town,CPT,152679000
+Audited Actual,AUDA,2019,year,2019,,line_item,23,Short term loans,3220,Cape Town,CPT,0
+Audited Actual,AUDA,2019,year,2019,,line_item,24,Borrowing long term/refinancing,3230,Cape Town,CPT,196420000
+Audited Actual,AUDA,2019,year,2019,,line_item,25,Increase (decrease) in consumer deposits,3240,Cape Town,CPT,42524000
+Audited Actual,AUDA,2019,year,2019,,line_item,26,Decrease (Increase) in non-current debtors,3250,Cape Town,CPT,0
+Audited Actual,AUDA,2019,year,2019,,line_item,27,Decrease (increase) other non-current receivables,3260,Cape Town,CPT,7513000
+Audited Actual,AUDA,2019,year,2019,,line_item,28,Decrease (increase) in non-current investments,3270,Cape Town,CPT,-936183000
+Audited Actual,AUDA,2019,year,2019,"sum(3190, 3200, 3210, 3220, 3230, 3240, 3250, 3260, 3270, 3170)",subtotal,29,Total Cash Receipts by Source,3280,Cape Town,CPT,39727230000
+Audited Actual,AUDA,2019,year,2019,,heading,30,Cash Payments by Type,4000,Cape Town,CPT,0
+Audited Actual,AUDA,2019,year,2019,,line_item,31,Employee related costs,4010,Cape Town,CPT,12429037000
+Audited Actual,AUDA,2019,year,2019,,line_item,32,Remuneration of councillors,4020,Cape Town,CPT,153100000
+Audited Actual,AUDA,2019,year,2019,,line_item,33,Collection costs,4030,Cape Town,CPT,0
+Audited Actual,AUDA,2019,year,2019,,line_item,34,Interest paid,4040,Cape Town,CPT,693161000
+Audited Actual,AUDA,2019,year,2019,,line_item,35,Bulk purchases - Electricity,4050,Cape Town,CPT,8281772000
+Audited Actual,AUDA,2019,year,2019,,line_item,36,Bulk purchases - Water & Sewer,4060,Cape Town,CPT,362849000
+Audited Actual,AUDA,2019,year,2019,,line_item,37,Other materials,4070,Cape Town,CPT,0
+Audited Actual,AUDA,2019,year,2019,,line_item,38,Contracted services,4080,Cape Town,CPT,2066606000
+Audited Actual,AUDA,2019,year,2019,,line_item,39,Grants and subsidies paid - other municipalities,4090,Cape Town,CPT,0
+Audited Actual,AUDA,2019,year,2019,,line_item,40,Grants and subsidies paid - other,4100,Cape Town,CPT,0
+Audited Actual,AUDA,2019,year,2019,,line_item,41,General expenses,4110,Cape Town,CPT,6997651000
+Audited Actual,AUDA,2019,year,2019,"sum(4010, 4020, 4030, 4040, 4050, 4060, 4070, 4080, 4090, 4100, 4110)",subtotal,42,Cash Payments by Type,4120,Cape Town,CPT,30984176000
+Audited Actual,AUDA,2019,year,2019,,heading,43,Other Cash Flows/Payments by Type,4130,Cape Town,CPT,0
+Audited Actual,AUDA,2019,year,2019,,line_item,44,Capital assets,4140,Cape Town,CPT,5466264000
+Audited Actual,AUDA,2019,year,2019,,line_item,45,Repayment of borrowing,4150,Cape Town,CPT,370744000
+Audited Actual,AUDA,2019,year,2019,,line_item,46,Other Cash Flows/Payments,4160,Cape Town,CPT,0
+Audited Actual,AUDA,2019,year,2019,"sum(4140, 4150, 4160, 4120)",subtotal,47,Total Cash Payments by Type,4170,Cape Town,CPT,36821184000
+Audited Actual,AUDA,2019,year,2019,3280 - 4170,subtotal,48,Net Increase/(Decrease) in Cash Held,4180,Cape Town,CPT,2906046000
+Audited Actual,AUDA,2019,year,2019,,line_item,49,Cash/cash equivalents at the month/year begin:,4190,Cape Town,CPT,5806824000
+Audited Actual,AUDA,2019,year,2019,4180 + 4190,subtotal,50,Cash/cash equivalents at the month/year end:,4200,Cape Town,CPT,8712870000
+Audited Actual,AUDA,2019,year,2019,,heading,1,Cash Receipts by Source,3000,City of Ekurhuleni,EKU,0
+Audited Actual,AUDA,2019,year,2019,,line_item,2,Property rates,3010,City of Ekurhuleni,EKU,5554632496
+Audited Actual,AUDA,2019,year,2019,,line_item,3,Property rates - penalties & collection charges,3020,City of Ekurhuleni,EKU,0
+Audited Actual,AUDA,2019,year,2019,,line_item,4,Service charges - electricity revenue,3030,City of Ekurhuleni,EKU,11949697829
+Audited Actual,AUDA,2019,year,2019,,line_item,5,Service charges - water revenue,3040,City of Ekurhuleni,EKU,3670738928
+Audited Actual,AUDA,2019,year,2019,,line_item,6,Service charges - sanitation revenue,3050,City of Ekurhuleni,EKU,1285584828
+Audited Actual,AUDA,2019,year,2019,,line_item,7,Service charges - refuse revenue,3060,City of Ekurhuleni,EKU,1273034972
+Audited Actual,AUDA,2019,year,2019,,line_item,8,Service charges - other,3070,City of Ekurhuleni,EKU,-51446802
+Audited Actual,AUDA,2019,year,2019,,line_item,9,Rental of facilities and equipment,3080,City of Ekurhuleni,EKU,116417877
+Audited Actual,AUDA,2019,year,2019,,line_item,10,Interest earned - external investments,3090,City of Ekurhuleni,EKU,399384251
+Audited Actual,AUDA,2019,year,2019,,line_item,11,Interest earned - outstanding debtors,3100,City of Ekurhuleni,EKU,0
+Audited Actual,AUDA,2019,year,2019,,line_item,12,Dividends received,3110,City of Ekurhuleni,EKU,181971
+Audited Actual,AUDA,2019,year,2019,,line_item,13,Fines,3120,City of Ekurhuleni,EKU,820850338
+Audited Actual,AUDA,2019,year,2019,,line_item,14,Licences and permits,3130,City of Ekurhuleni,EKU,43989029
+Audited Actual,AUDA,2019,year,2019,,line_item,15,Agency services,3140,City of Ekurhuleni,EKU,0
+Audited Actual,AUDA,2019,year,2019,,line_item,16,Transfer receipts - operational,3150,City of Ekurhuleni,EKU,6045125033
+Audited Actual,AUDA,2019,year,2019,,line_item,17,Other revenue,3160,City of Ekurhuleni,EKU,503330465
+Audited Actual,AUDA,2019,year,2019,"sum(3010, 3020, 3030, 3040, 3050, 3060, 3070, 3080, 3090, 3100, 3110, 3120, 3130, 3140, 3150, 3160)",subtotal,18,Cash Receipts by Source,3170,City of Ekurhuleni,EKU,31611521215
+Audited Actual,AUDA,2019,year,2019,,heading,19,Other Cash Flows/Receipts by Source,3180,City of Ekurhuleni,EKU,0
+Audited Actual,AUDA,2019,year,2019,,line_item,20,Transfer receipts - capital,3190,City of Ekurhuleni,EKU,2067209453
+Audited Actual,AUDA,2019,year,2019,,line_item,21,Contributions recognised - capital & Contributed assets,3200,City of Ekurhuleni,EKU,0
+Audited Actual,AUDA,2019,year,2019,,line_item,22,Proceeds on disposal of PPE,3210,City of Ekurhuleni,EKU,0
+Audited Actual,AUDA,2019,year,2019,,line_item,23,Short term loans,3220,City of Ekurhuleni,EKU,0
+Audited Actual,AUDA,2019,year,2019,,line_item,24,Borrowing long term/refinancing,3230,City of Ekurhuleni,EKU,3000241002
+Audited Actual,AUDA,2019,year,2019,,line_item,25,Increase (decrease) in consumer deposits,3240,City of Ekurhuleni,EKU,0
+Audited Actual,AUDA,2019,year,2019,,line_item,26,Decrease (Increase) in non-current debtors,3250,City of Ekurhuleni,EKU,0
+Audited Actual,AUDA,2019,year,2019,,line_item,27,Decrease (increase) other non-current receivables,3260,City of Ekurhuleni,EKU,83329679
+Audited Actual,AUDA,2019,year,2019,,line_item,28,Decrease (increase) in non-current investments,3270,City of Ekurhuleni,EKU,-6854215
+Audited Actual,AUDA,2019,year,2019,"sum(3190, 3200, 3210, 3220, 3230, 3240, 3250, 3260, 3270, 3170)",subtotal,29,Total Cash Receipts by Source,3280,City of Ekurhuleni,EKU,36755447134
+Audited Actual,AUDA,2019,year,2019,,heading,30,Cash Payments by Type,4000,City of Ekurhuleni,EKU,0
+Audited Actual,AUDA,2019,year,2019,,line_item,31,Employee related costs,4010,City of Ekurhuleni,EKU,8506234429
+Audited Actual,AUDA,2019,year,2019,,line_item,32,Remuneration of councillors,4020,City of Ekurhuleni,EKU,137853886
+Audited Actual,AUDA,2019,year,2019,,line_item,33,Collection costs,4030,City of Ekurhuleni,EKU,127898248
+Audited Actual,AUDA,2019,year,2019,,line_item,34,Interest paid,4040,City of Ekurhuleni,EKU,651394987
+Audited Actual,AUDA,2019,year,2019,,line_item,35,Bulk purchases - Electricity,4050,City of Ekurhuleni,EKU,8744141046
+Audited Actual,AUDA,2019,year,2019,,line_item,36,Bulk purchases - Water & Sewer,4060,City of Ekurhuleni,EKU,4341910064
+Audited Actual,AUDA,2019,year,2019,,line_item,37,Other materials,4070,City of Ekurhuleni,EKU,0
+Audited Actual,AUDA,2019,year,2019,,line_item,38,Contracted services,4080,City of Ekurhuleni,EKU,2469896900
+Audited Actual,AUDA,2019,year,2019,,line_item,39,Grants and subsidies paid - other municipalities,4090,City of Ekurhuleni,EKU,0
+Audited Actual,AUDA,2019,year,2019,,line_item,40,Grants and subsidies paid - other,4100,City of Ekurhuleni,EKU,1411695928
+Audited Actual,AUDA,2019,year,2019,,line_item,41,General expenses,4110,City of Ekurhuleni,EKU,3971408565
+Audited Actual,AUDA,2019,year,2019,"sum(4010, 4020, 4030, 4040, 4050, 4060, 4070, 4080, 4090, 4100, 4110)",subtotal,42,Cash Payments by Type,4120,City of Ekurhuleni,EKU,30362434053
+Audited Actual,AUDA,2019,year,2019,,heading,43,Other Cash Flows/Payments by Type,4130,City of Ekurhuleni,EKU,0
+Audited Actual,AUDA,2019,year,2019,,line_item,44,Capital assets,4140,City of Ekurhuleni,EKU,6150527667
+Audited Actual,AUDA,2019,year,2019,,line_item,45,Repayment of borrowing,4150,City of Ekurhuleni,EKU,371715206
+Audited Actual,AUDA,2019,year,2019,,line_item,46,Other Cash Flows/Payments,4160,City of Ekurhuleni,EKU,0
+Audited Actual,AUDA,2019,year,2019,"sum(4140, 4150, 4160, 4120)",subtotal,47,Total Cash Payments by Type,4170,City of Ekurhuleni,EKU,36884676926
+Audited Actual,AUDA,2019,year,2019,3280 - 4170,subtotal,48,Net Increase/(Decrease) in Cash Held,4180,City of Ekurhuleni,EKU,-129229792
+Audited Actual,AUDA,2019,year,2019,,line_item,49,Cash/cash equivalents at the month/year begin:,4190,City of Ekurhuleni,EKU,3658286231
+Audited Actual,AUDA,2019,year,2019,4180 + 4190,subtotal,50,Cash/cash equivalents at the month/year end:,4200,City of Ekurhuleni,EKU,3529056439
+Audited Actual,AUDA,2019,year,2019,,heading,1,Cash Receipts by Source,3000,eThekwini,ETH,0
+Audited Actual,AUDA,2019,year,2019,,line_item,2,Property rates,3010,eThekwini,ETH,8321425000
+Audited Actual,AUDA,2019,year,2019,,line_item,3,Property rates - penalties & collection charges,3020,eThekwini,ETH,220690000
+Audited Actual,AUDA,2019,year,2019,,line_item,4,Service charges - electricity revenue,3030,eThekwini,ETH,12404279000
+Audited Actual,AUDA,2019,year,2019,,line_item,5,Service charges - water revenue,3040,eThekwini,ETH,3858486000
+Audited Actual,AUDA,2019,year,2019,,line_item,6,Service charges - sanitation revenue,3050,eThekwini,ETH,920245000
+Audited Actual,AUDA,2019,year,2019,,line_item,7,Service charges - refuse revenue,3060,eThekwini,ETH,723720000
+Audited Actual,AUDA,2019,year,2019,,line_item,8,Service charges - other,3070,eThekwini,ETH,0
+Audited Actual,AUDA,2019,year,2019,,line_item,9,Rental of facilities and equipment,3080,eThekwini,ETH,753158000
+Audited Actual,AUDA,2019,year,2019,,line_item,10,Interest earned - external investments,3090,eThekwini,ETH,600705000
+Audited Actual,AUDA,2019,year,2019,,line_item,11,Interest earned - outstanding debtors,3100,eThekwini,ETH,410727000
+Audited Actual,AUDA,2019,year,2019,,line_item,12,Dividends received,3110,eThekwini,ETH,0
+Audited Actual,AUDA,2019,year,2019,,line_item,13,Fines,3120,eThekwini,ETH,160664000
+Audited Actual,AUDA,2019,year,2019,,line_item,14,Licences and permits,3130,eThekwini,ETH,57059000
+Audited Actual,AUDA,2019,year,2019,,line_item,15,Agency services,3140,eThekwini,ETH,0
+Audited Actual,AUDA,2019,year,2019,,line_item,16,Transfer receipts - operational,3150,eThekwini,ETH,5815614000
+Audited Actual,AUDA,2019,year,2019,,line_item,17,Other revenue,3160,eThekwini,ETH,596446000
+Audited Actual,AUDA,2019,year,2019,"sum(3010, 3020, 3030, 3040, 3050, 3060, 3070, 3080, 3090, 3100, 3110, 3120, 3130, 3140, 3150, 3160)",subtotal,18,Cash Receipts by Source,3170,eThekwini,ETH,34843218000
+Audited Actual,AUDA,2019,year,2019,,heading,19,Other Cash Flows/Receipts by Source,3180,eThekwini,ETH,0
+Audited Actual,AUDA,2019,year,2019,,line_item,20,Transfer receipts - capital,3190,eThekwini,ETH,2403701000
+Audited Actual,AUDA,2019,year,2019,,line_item,21,Contributions recognised - capital & Contributed assets,3200,eThekwini,ETH,0
+Audited Actual,AUDA,2019,year,2019,,line_item,22,Proceeds on disposal of PPE,3210,eThekwini,ETH,2214000
+Audited Actual,AUDA,2019,year,2019,,line_item,23,Short term loans,3220,eThekwini,ETH,0
+Audited Actual,AUDA,2019,year,2019,,line_item,24,Borrowing long term/refinancing,3230,eThekwini,ETH,2000000000
+Audited Actual,AUDA,2019,year,2019,,line_item,25,Increase (decrease) in consumer deposits,3240,eThekwini,ETH,101428000
+Audited Actual,AUDA,2019,year,2019,,line_item,26,Decrease (Increase) in non-current debtors,3250,eThekwini,ETH,-7766000
+Audited Actual,AUDA,2019,year,2019,,line_item,27,Decrease (increase) other non-current receivables,3260,eThekwini,ETH,0
+Audited Actual,AUDA,2019,year,2019,,line_item,28,Decrease (increase) in non-current investments,3270,eThekwini,ETH,0
+Audited Actual,AUDA,2019,year,2019,"sum(3190, 3200, 3210, 3220, 3230, 3240, 3250, 3260, 3270, 3170)",subtotal,29,Total Cash Receipts by Source,3280,eThekwini,ETH,39342795000
+Audited Actual,AUDA,2019,year,2019,,heading,30,Cash Payments by Type,4000,eThekwini,ETH,0
+Audited Actual,AUDA,2019,year,2019,,line_item,31,Employee related costs,4010,eThekwini,ETH,10475362000
+Audited Actual,AUDA,2019,year,2019,,line_item,32,Remuneration of councillors,4020,eThekwini,ETH,126495000
+Audited Actual,AUDA,2019,year,2019,,line_item,33,Collection costs,4030,eThekwini,ETH,0
+Audited Actual,AUDA,2019,year,2019,,line_item,34,Interest paid,4040,eThekwini,ETH,857834000
+Audited Actual,AUDA,2019,year,2019,,line_item,35,Bulk purchases - Electricity,4050,eThekwini,ETH,8884076000
+Audited Actual,AUDA,2019,year,2019,,line_item,36,Bulk purchases - Water & Sewer,4060,eThekwini,ETH,2596939000
+Audited Actual,AUDA,2019,year,2019,,line_item,37,Other materials,4070,eThekwini,ETH,0
+Audited Actual,AUDA,2019,year,2019,,line_item,38,Contracted services,4080,eThekwini,ETH,4693749000
+Audited Actual,AUDA,2019,year,2019,,line_item,39,Grants and subsidies paid - other municipalities,4090,eThekwini,ETH,0
+Audited Actual,AUDA,2019,year,2019,,line_item,40,Grants and subsidies paid - other,4100,eThekwini,ETH,461311000
+Audited Actual,AUDA,2019,year,2019,,line_item,41,General expenses,4110,eThekwini,ETH,3245448000
+Audited Actual,AUDA,2019,year,2019,"sum(4010, 4020, 4030, 4040, 4050, 4060, 4070, 4080, 4090, 4100, 4110)",subtotal,42,Cash Payments by Type,4120,eThekwini,ETH,31341214000
+Audited Actual,AUDA,2019,year,2019,,heading,43,Other Cash Flows/Payments by Type,4130,eThekwini,ETH,0
+Audited Actual,AUDA,2019,year,2019,,line_item,44,Capital assets,4140,eThekwini,ETH,5085412000
+Audited Actual,AUDA,2019,year,2019,,line_item,45,Repayment of borrowing,4150,eThekwini,ETH,741185000
+Audited Actual,AUDA,2019,year,2019,,line_item,46,Other Cash Flows/Payments,4160,eThekwini,ETH,1635927000
+Audited Actual,AUDA,2019,year,2019,"sum(4140, 4150, 4160, 4120)",subtotal,47,Total Cash Payments by Type,4170,eThekwini,ETH,38803738000
+Audited Actual,AUDA,2019,year,2019,3280 - 4170,subtotal,48,Net Increase/(Decrease) in Cash Held,4180,eThekwini,ETH,539057000
+Audited Actual,AUDA,2019,year,2019,,line_item,49,Cash/cash equivalents at the month/year begin:,4190,eThekwini,ETH,6386849000
+Audited Actual,AUDA,2019,year,2019,4180 + 4190,subtotal,50,Cash/cash equivalents at the month/year end:,4200,eThekwini,ETH,6925906000
+Audited Actual,AUDA,2019,year,2019,,heading,1,Cash Receipts by Source,3000,City of Johannesburg,JHB,0
+Audited Actual,AUDA,2019,year,2019,,line_item,2,Property rates,3010,City of Johannesburg,JHB,9893481000
+Audited Actual,AUDA,2019,year,2019,,line_item,3,Property rates - penalties & collection charges,3020,City of Johannesburg,JHB,0
+Audited Actual,AUDA,2019,year,2019,,line_item,4,Service charges - electricity revenue,3030,City of Johannesburg,JHB,0
+Audited Actual,AUDA,2019,year,2019,,line_item,5,Service charges - water revenue,3040,City of Johannesburg,JHB,0
+Audited Actual,AUDA,2019,year,2019,,line_item,6,Service charges - sanitation revenue,3050,City of Johannesburg,JHB,0
+Audited Actual,AUDA,2019,year,2019,,line_item,7,Service charges - refuse revenue,3060,City of Johannesburg,JHB,0
+Audited Actual,AUDA,2019,year,2019,,line_item,8,Service charges - other,3070,City of Johannesburg,JHB,26159810000
+Audited Actual,AUDA,2019,year,2019,,line_item,9,Rental of facilities and equipment,3080,City of Johannesburg,JHB,0
+Audited Actual,AUDA,2019,year,2019,,line_item,10,Interest earned - external investments,3090,City of Johannesburg,JHB,839864000
+Audited Actual,AUDA,2019,year,2019,,line_item,11,Interest earned - outstanding debtors,3100,City of Johannesburg,JHB,0
+Audited Actual,AUDA,2019,year,2019,,line_item,12,Dividends received,3110,City of Johannesburg,JHB,0
+Audited Actual,AUDA,2019,year,2019,,line_item,13,Fines,3120,City of Johannesburg,JHB,0
+Audited Actual,AUDA,2019,year,2019,,line_item,14,Licences and permits,3130,City of Johannesburg,JHB,0
+Audited Actual,AUDA,2019,year,2019,,line_item,15,Agency services,3140,City of Johannesburg,JHB,0
+Audited Actual,AUDA,2019,year,2019,,line_item,16,Transfer receipts - operational,3150,City of Johannesburg,JHB,8209623817
+Audited Actual,AUDA,2019,year,2019,,line_item,17,Other revenue,3160,City of Johannesburg,JHB,1415806000
+Audited Actual,AUDA,2019,year,2019,"sum(3010, 3020, 3030, 3040, 3050, 3060, 3070, 3080, 3090, 3100, 3110, 3120, 3130, 3140, 3150, 3160)",subtotal,18,Cash Receipts by Source,3170,City of Johannesburg,JHB,46518584817
+Audited Actual,AUDA,2019,year,2019,,heading,19,Other Cash Flows/Receipts by Source,3180,City of Johannesburg,JHB,0
+Audited Actual,AUDA,2019,year,2019,,line_item,20,Transfer receipts - capital,3190,City of Johannesburg,JHB,2681480183
+Audited Actual,AUDA,2019,year,2019,,line_item,21,Contributions recognised - capital & Contributed assets,3200,City of Johannesburg,JHB,0
+Audited Actual,AUDA,2019,year,2019,,line_item,22,Proceeds on disposal of PPE,3210,City of Johannesburg,JHB,0
+Audited Actual,AUDA,2019,year,2019,,line_item,23,Short term loans,3220,City of Johannesburg,JHB,0
+Audited Actual,AUDA,2019,year,2019,,line_item,24,Borrowing long term/refinancing,3230,City of Johannesburg,JHB,4349726000
+Audited Actual,AUDA,2019,year,2019,,line_item,25,Increase (decrease) in consumer deposits,3240,City of Johannesburg,JHB,0
+Audited Actual,AUDA,2019,year,2019,,line_item,26,Decrease (Increase) in non-current debtors,3250,City of Johannesburg,JHB,0
+Audited Actual,AUDA,2019,year,2019,,line_item,27,Decrease (increase) other non-current receivables,3260,City of Johannesburg,JHB,0
+Audited Actual,AUDA,2019,year,2019,,line_item,28,Decrease (increase) in non-current investments,3270,City of Johannesburg,JHB,-9350000
+Audited Actual,AUDA,2019,year,2019,"sum(3190, 3200, 3210, 3220, 3230, 3240, 3250, 3260, 3270, 3170)",subtotal,29,Total Cash Receipts by Source,3280,City of Johannesburg,JHB,53540441000
+Audited Actual,AUDA,2019,year,2019,,heading,30,Cash Payments by Type,4000,City of Johannesburg,JHB,0
+Audited Actual,AUDA,2019,year,2019,,line_item,31,Employee related costs,4010,City of Johannesburg,JHB,37871075000
+Audited Actual,AUDA,2019,year,2019,,line_item,32,Remuneration of councillors,4020,City of Johannesburg,JHB,0
+Audited Actual,AUDA,2019,year,2019,,line_item,33,Collection costs,4030,City of Johannesburg,JHB,0
+Audited Actual,AUDA,2019,year,2019,,line_item,34,Interest paid,4040,City of Johannesburg,JHB,2434266000
+Audited Actual,AUDA,2019,year,2019,,line_item,35,Bulk purchases - Electricity,4050,City of Johannesburg,JHB,0
+Audited Actual,AUDA,2019,year,2019,,line_item,36,Bulk purchases - Water & Sewer,4060,City of Johannesburg,JHB,0
+Audited Actual,AUDA,2019,year,2019,,line_item,37,Other materials,4070,City of Johannesburg,JHB,0
+Audited Actual,AUDA,2019,year,2019,,line_item,38,Contracted services,4080,City of Johannesburg,JHB,0
+Audited Actual,AUDA,2019,year,2019,,line_item,39,Grants and subsidies paid - other municipalities,4090,City of Johannesburg,JHB,0
+Audited Actual,AUDA,2019,year,2019,,line_item,40,Grants and subsidies paid - other,4100,City of Johannesburg,JHB,0
+Audited Actual,AUDA,2019,year,2019,,line_item,41,General expenses,4110,City of Johannesburg,JHB,268598000
+Audited Actual,AUDA,2019,year,2019,"sum(4010, 4020, 4030, 4040, 4050, 4060, 4070, 4080, 4090, 4100, 4110)",subtotal,42,Cash Payments by Type,4120,City of Johannesburg,JHB,40573939000
+Audited Actual,AUDA,2019,year,2019,,heading,43,Other Cash Flows/Payments by Type,4130,City of Johannesburg,JHB,0
+Audited Actual,AUDA,2019,year,2019,,line_item,44,Capital assets,4140,City of Johannesburg,JHB,7520167000
+Audited Actual,AUDA,2019,year,2019,,line_item,45,Repayment of borrowing,4150,City of Johannesburg,JHB,2208232000
+Audited Actual,AUDA,2019,year,2019,,line_item,46,Other Cash Flows/Payments,4160,City of Johannesburg,JHB,138749000
+Audited Actual,AUDA,2019,year,2019,"sum(4140, 4150, 4160, 4120)",subtotal,47,Total Cash Payments by Type,4170,City of Johannesburg,JHB,50441087000
+Audited Actual,AUDA,2019,year,2019,3280 - 4170,subtotal,48,Net Increase/(Decrease) in Cash Held,4180,City of Johannesburg,JHB,3099354000
+Audited Actual,AUDA,2019,year,2019,,line_item,49,Cash/cash equivalents at the month/year begin:,4190,City of Johannesburg,JHB,2239860000
+Audited Actual,AUDA,2019,year,2019,4180 + 4190,subtotal,50,Cash/cash equivalents at the month/year end:,4200,City of Johannesburg,JHB,5339214000
+Audited Actual,AUDA,2019,year,2019,,heading,1,Cash Receipts by Source,3000,Mangaung,MAN,0
+Audited Actual,AUDA,2019,year,2019,,line_item,2,Property rates,3010,Mangaung,MAN,0
+Audited Actual,AUDA,2019,year,2019,,line_item,3,Property rates - penalties & collection charges,3020,Mangaung,MAN,0
+Audited Actual,AUDA,2019,year,2019,,line_item,4,Service charges - electricity revenue,3030,Mangaung,MAN,0
+Audited Actual,AUDA,2019,year,2019,,line_item,5,Service charges - water revenue,3040,Mangaung,MAN,0
+Audited Actual,AUDA,2019,year,2019,,line_item,6,Service charges - sanitation revenue,3050,Mangaung,MAN,0
+Audited Actual,AUDA,2019,year,2019,,line_item,7,Service charges - refuse revenue,3060,Mangaung,MAN,0
+Audited Actual,AUDA,2019,year,2019,,line_item,8,Service charges - other,3070,Mangaung,MAN,3756985167
+Audited Actual,AUDA,2019,year,2019,,line_item,9,Rental of facilities and equipment,3080,Mangaung,MAN,0
+Audited Actual,AUDA,2019,year,2019,,line_item,10,Interest earned - external investments,3090,Mangaung,MAN,20723920
+Audited Actual,AUDA,2019,year,2019,,line_item,11,Interest earned - outstanding debtors,3100,Mangaung,MAN,287232494
+Audited Actual,AUDA,2019,year,2019,,line_item,12,Dividends received,3110,Mangaung,MAN,1420
+Audited Actual,AUDA,2019,year,2019,,line_item,13,Fines,3120,Mangaung,MAN,0
+Audited Actual,AUDA,2019,year,2019,,line_item,14,Licences and permits,3130,Mangaung,MAN,0
+Audited Actual,AUDA,2019,year,2019,,line_item,15,Agency services,3140,Mangaung,MAN,0
+Audited Actual,AUDA,2019,year,2019,,line_item,16,Transfer receipts - operational,3150,Mangaung,MAN,1255102001
+Audited Actual,AUDA,2019,year,2019,,line_item,17,Other revenue,3160,Mangaung,MAN,0
+Audited Actual,AUDA,2019,year,2019,"sum(3010, 3020, 3030, 3040, 3050, 3060, 3070, 3080, 3090, 3100, 3110, 3120, 3130, 3140, 3150, 3160)",subtotal,18,Cash Receipts by Source,3170,Mangaung,MAN,5320045002
+Audited Actual,AUDA,2019,year,2019,,heading,19,Other Cash Flows/Receipts by Source,3180,Mangaung,MAN,0
+Audited Actual,AUDA,2019,year,2019,,line_item,20,Transfer receipts - capital,3190,Mangaung,MAN,745441000
+Audited Actual,AUDA,2019,year,2019,,line_item,21,Contributions recognised - capital & Contributed assets,3200,Mangaung,MAN,0
+Audited Actual,AUDA,2019,year,2019,,line_item,22,Proceeds on disposal of PPE,3210,Mangaung,MAN,1870753
+Audited Actual,AUDA,2019,year,2019,,line_item,23,Short term loans,3220,Mangaung,MAN,0
+Audited Actual,AUDA,2019,year,2019,,line_item,24,Borrowing long term/refinancing,3230,Mangaung,MAN,0
+Audited Actual,AUDA,2019,year,2019,,line_item,25,Increase (decrease) in consumer deposits,3240,Mangaung,MAN,-9549
+Audited Actual,AUDA,2019,year,2019,,line_item,26,Decrease (Increase) in non-current debtors,3250,Mangaung,MAN,0
+Audited Actual,AUDA,2019,year,2019,,line_item,27,Decrease (increase) other non-current receivables,3260,Mangaung,MAN,1357822
+Audited Actual,AUDA,2019,year,2019,,line_item,28,Decrease (increase) in non-current investments,3270,Mangaung,MAN,53265198
+Audited Actual,AUDA,2019,year,2019,"sum(3190, 3200, 3210, 3220, 3230, 3240, 3250, 3260, 3270, 3170)",subtotal,29,Total Cash Receipts by Source,3280,Mangaung,MAN,6121970226
+Audited Actual,AUDA,2019,year,2019,,heading,30,Cash Payments by Type,4000,Mangaung,MAN,0
+Audited Actual,AUDA,2019,year,2019,,line_item,31,Employee related costs,4010,Mangaung,MAN,2057441989
+Audited Actual,AUDA,2019,year,2019,,line_item,32,Remuneration of councillors,4020,Mangaung,MAN,0
+Audited Actual,AUDA,2019,year,2019,,line_item,33,Collection costs,4030,Mangaung,MAN,0
+Audited Actual,AUDA,2019,year,2019,,line_item,34,Interest paid,4040,Mangaung,MAN,130154491
+Audited Actual,AUDA,2019,year,2019,,line_item,35,Bulk purchases - Electricity,4050,Mangaung,MAN,0
+Audited Actual,AUDA,2019,year,2019,,line_item,36,Bulk purchases - Water & Sewer,4060,Mangaung,MAN,0
+Audited Actual,AUDA,2019,year,2019,,line_item,37,Other materials,4070,Mangaung,MAN,0
+Audited Actual,AUDA,2019,year,2019,,line_item,38,Contracted services,4080,Mangaung,MAN,0
+Audited Actual,AUDA,2019,year,2019,,line_item,39,Grants and subsidies paid - other municipalities,4090,Mangaung,MAN,0
+Audited Actual,AUDA,2019,year,2019,,line_item,40,Grants and subsidies paid - other,4100,Mangaung,MAN,6659800
+Audited Actual,AUDA,2019,year,2019,,line_item,41,General expenses,4110,Mangaung,MAN,3150791153
+Audited Actual,AUDA,2019,year,2019,"sum(4010, 4020, 4030, 4040, 4050, 4060, 4070, 4080, 4090, 4100, 4110)",subtotal,42,Cash Payments by Type,4120,Mangaung,MAN,5345047433
+Audited Actual,AUDA,2019,year,2019,,heading,43,Other Cash Flows/Payments by Type,4130,Mangaung,MAN,0
+Audited Actual,AUDA,2019,year,2019,,line_item,44,Capital assets,4140,Mangaung,MAN,762307439
+Audited Actual,AUDA,2019,year,2019,,line_item,45,Repayment of borrowing,4150,Mangaung,MAN,122531043
+Audited Actual,AUDA,2019,year,2019,,line_item,46,Other Cash Flows/Payments,4160,Mangaung,MAN,0
+Audited Actual,AUDA,2019,year,2019,"sum(4140, 4150, 4160, 4120)",subtotal,47,Total Cash Payments by Type,4170,Mangaung,MAN,6229885915
+Audited Actual,AUDA,2019,year,2019,3280 - 4170,subtotal,48,Net Increase/(Decrease) in Cash Held,4180,Mangaung,MAN,-107915689
+Audited Actual,AUDA,2019,year,2019,,line_item,49,Cash/cash equivalents at the month/year begin:,4190,Mangaung,MAN,235901913
+Audited Actual,AUDA,2019,year,2019,4180 + 4190,subtotal,50,Cash/cash equivalents at the month/year end:,4200,Mangaung,MAN,127986224
+Audited Actual,AUDA,2019,year,2019,,heading,1,Cash Receipts by Source,3000,Nelson Mandela Bay,NMA,0
+Audited Actual,AUDA,2019,year,2019,,line_item,2,Property rates,3010,Nelson Mandela Bay,NMA,1890148889
+Audited Actual,AUDA,2019,year,2019,,line_item,3,Property rates - penalties & collection charges,3020,Nelson Mandela Bay,NMA,0
+Audited Actual,AUDA,2019,year,2019,,line_item,4,Service charges - electricity revenue,3030,Nelson Mandela Bay,NMA,3492262186
+Audited Actual,AUDA,2019,year,2019,,line_item,5,Service charges - water revenue,3040,Nelson Mandela Bay,NMA,767458482
+Audited Actual,AUDA,2019,year,2019,,line_item,6,Service charges - sanitation revenue,3050,Nelson Mandela Bay,NMA,513864057
+Audited Actual,AUDA,2019,year,2019,,line_item,7,Service charges - refuse revenue,3060,Nelson Mandela Bay,NMA,185126003
+Audited Actual,AUDA,2019,year,2019,,line_item,8,Service charges - other,3070,Nelson Mandela Bay,NMA,0
+Audited Actual,AUDA,2019,year,2019,,line_item,9,Rental of facilities and equipment,3080,Nelson Mandela Bay,NMA,16893192
+Audited Actual,AUDA,2019,year,2019,,line_item,10,Interest earned - external investments,3090,Nelson Mandela Bay,NMA,208830372
+Audited Actual,AUDA,2019,year,2019,,line_item,11,Interest earned - outstanding debtors,3100,Nelson Mandela Bay,NMA,0
+Audited Actual,AUDA,2019,year,2019,,line_item,12,Dividends received,3110,Nelson Mandela Bay,NMA,0
+Audited Actual,AUDA,2019,year,2019,,line_item,13,Fines,3120,Nelson Mandela Bay,NMA,22192265
+Audited Actual,AUDA,2019,year,2019,,line_item,14,Licences and permits,3130,Nelson Mandela Bay,NMA,10678231
+Audited Actual,AUDA,2019,year,2019,,line_item,15,Agency services,3140,Nelson Mandela Bay,NMA,1630268
+Audited Actual,AUDA,2019,year,2019,,line_item,16,Transfer receipts - operational,3150,Nelson Mandela Bay,NMA,1464375376
+Audited Actual,AUDA,2019,year,2019,,line_item,17,Other revenue,3160,Nelson Mandela Bay,NMA,0
+Audited Actual,AUDA,2019,year,2019,"sum(3010, 3020, 3030, 3040, 3050, 3060, 3070, 3080, 3090, 3100, 3110, 3120, 3130, 3140, 3150, 3160)",subtotal,18,Cash Receipts by Source,3170,Nelson Mandela Bay,NMA,8573459321
+Audited Actual,AUDA,2019,year,2019,,heading,19,Other Cash Flows/Receipts by Source,3180,Nelson Mandela Bay,NMA,0
+Audited Actual,AUDA,2019,year,2019,,line_item,20,Transfer receipts - capital,3190,Nelson Mandela Bay,NMA,1851735438
+Audited Actual,AUDA,2019,year,2019,,line_item,21,Contributions recognised - capital & Contributed assets,3200,Nelson Mandela Bay,NMA,0
+Audited Actual,AUDA,2019,year,2019,,line_item,22,Proceeds on disposal of PPE,3210,Nelson Mandela Bay,NMA,0
+Audited Actual,AUDA,2019,year,2019,,line_item,23,Short term loans,3220,Nelson Mandela Bay,NMA,0
+Audited Actual,AUDA,2019,year,2019,,line_item,24,Borrowing long term/refinancing,3230,Nelson Mandela Bay,NMA,0
+Audited Actual,AUDA,2019,year,2019,,line_item,25,Increase (decrease) in consumer deposits,3240,Nelson Mandela Bay,NMA,0
+Audited Actual,AUDA,2019,year,2019,,line_item,26,Decrease (Increase) in non-current debtors,3250,Nelson Mandela Bay,NMA,0
+Audited Actual,AUDA,2019,year,2019,,line_item,27,Decrease (increase) other non-current receivables,3260,Nelson Mandela Bay,NMA,0
+Audited Actual,AUDA,2019,year,2019,,line_item,28,Decrease (increase) in non-current investments,3270,Nelson Mandela Bay,NMA,0
+Audited Actual,AUDA,2019,year,2019,"sum(3190, 3200, 3210, 3220, 3230, 3240, 3250, 3260, 3270, 3170)",subtotal,29,Total Cash Receipts by Source,3280,Nelson Mandela Bay,NMA,10425194759
+Audited Actual,AUDA,2019,year,2019,,heading,30,Cash Payments by Type,4000,Nelson Mandela Bay,NMA,0
+Audited Actual,AUDA,2019,year,2019,,line_item,31,Employee related costs,4010,Nelson Mandela Bay,NMA,2935125741
+Audited Actual,AUDA,2019,year,2019,,line_item,32,Remuneration of councillors,4020,Nelson Mandela Bay,NMA,74229126
+Audited Actual,AUDA,2019,year,2019,,line_item,33,Collection costs,4030,Nelson Mandela Bay,NMA,0
+Audited Actual,AUDA,2019,year,2019,,line_item,34,Interest paid,4040,Nelson Mandela Bay,NMA,142491776
+Audited Actual,AUDA,2019,year,2019,,line_item,35,Bulk purchases - Electricity,4050,Nelson Mandela Bay,NMA,3084412549
+Audited Actual,AUDA,2019,year,2019,,line_item,36,Bulk purchases - Water & Sewer,4060,Nelson Mandela Bay,NMA,125933893
+Audited Actual,AUDA,2019,year,2019,,line_item,37,Other materials,4070,Nelson Mandela Bay,NMA,181154911
+Audited Actual,AUDA,2019,year,2019,,line_item,38,Contracted services,4080,Nelson Mandela Bay,NMA,1196713892
+Audited Actual,AUDA,2019,year,2019,,line_item,39,Grants and subsidies paid - other municipalities,4090,Nelson Mandela Bay,NMA,0
+Audited Actual,AUDA,2019,year,2019,,line_item,40,Grants and subsidies paid - other,4100,Nelson Mandela Bay,NMA,0
+Audited Actual,AUDA,2019,year,2019,,line_item,41,General expenses,4110,Nelson Mandela Bay,NMA,303281311
+Audited Actual,AUDA,2019,year,2019,"sum(4010, 4020, 4030, 4040, 4050, 4060, 4070, 4080, 4090, 4100, 4110)",subtotal,42,Cash Payments by Type,4120,Nelson Mandela Bay,NMA,8043343199
+Audited Actual,AUDA,2019,year,2019,,heading,43,Other Cash Flows/Payments by Type,4130,Nelson Mandela Bay,NMA,0
+Audited Actual,AUDA,2019,year,2019,,line_item,44,Capital assets,4140,Nelson Mandela Bay,NMA,1702939883
+Audited Actual,AUDA,2019,year,2019,,line_item,45,Repayment of borrowing,4150,Nelson Mandela Bay,NMA,79760410
+Audited Actual,AUDA,2019,year,2019,,line_item,46,Other Cash Flows/Payments,4160,Nelson Mandela Bay,NMA,0
+Audited Actual,AUDA,2019,year,2019,"sum(4140, 4150, 4160, 4120)",subtotal,47,Total Cash Payments by Type,4170,Nelson Mandela Bay,NMA,9826043492
+Audited Actual,AUDA,2019,year,2019,3280 - 4170,subtotal,48,Net Increase/(Decrease) in Cash Held,4180,Nelson Mandela Bay,NMA,599151268
+Audited Actual,AUDA,2019,year,2019,,line_item,49,Cash/cash equivalents at the month/year begin:,4190,Nelson Mandela Bay,NMA,2609521012
+Audited Actual,AUDA,2019,year,2019,4180 + 4190,subtotal,50,Cash/cash equivalents at the month/year end:,4200,Nelson Mandela Bay,NMA,3208672280
+Audited Actual,AUDA,2019,year,2019,,heading,1,Cash Receipts by Source,3000,City of Tshwane,TSH,0
+Audited Actual,AUDA,2019,year,2019,,line_item,2,Property rates,3010,City of Tshwane,TSH,7116106910
+Audited Actual,AUDA,2019,year,2019,,line_item,3,Property rates - penalties & collection charges,3020,City of Tshwane,TSH,0
+Audited Actual,AUDA,2019,year,2019,,line_item,4,Service charges - electricity revenue,3030,City of Tshwane,TSH,11386429104
+Audited Actual,AUDA,2019,year,2019,,line_item,5,Service charges - water revenue,3040,City of Tshwane,TSH,3922848328
+Audited Actual,AUDA,2019,year,2019,,line_item,6,Service charges - sanitation revenue,3050,City of Tshwane,TSH,1076677160
+Audited Actual,AUDA,2019,year,2019,,line_item,7,Service charges - refuse revenue,3060,City of Tshwane,TSH,1549843078
+Audited Actual,AUDA,2019,year,2019,,line_item,8,Service charges - other,3070,City of Tshwane,TSH,317398660
+Audited Actual,AUDA,2019,year,2019,,line_item,9,Rental of facilities and equipment,3080,City of Tshwane,TSH,7927964
+Audited Actual,AUDA,2019,year,2019,,line_item,10,Interest earned - external investments,3090,City of Tshwane,TSH,385762113
+Audited Actual,AUDA,2019,year,2019,,line_item,11,Interest earned - outstanding debtors,3100,City of Tshwane,TSH,0
+Audited Actual,AUDA,2019,year,2019,,line_item,12,Dividends received,3110,City of Tshwane,TSH,0
+Audited Actual,AUDA,2019,year,2019,,line_item,13,Fines,3120,City of Tshwane,TSH,16450626
+Audited Actual,AUDA,2019,year,2019,,line_item,14,Licences and permits,3130,City of Tshwane,TSH,2437012
+Audited Actual,AUDA,2019,year,2019,,line_item,15,Agency services,3140,City of Tshwane,TSH,0
+Audited Actual,AUDA,2019,year,2019,,line_item,16,Transfer receipts - operational,3150,City of Tshwane,TSH,4269322608
+Audited Actual,AUDA,2019,year,2019,,line_item,17,Other revenue,3160,City of Tshwane,TSH,104897178
+Audited Actual,AUDA,2019,year,2019,"sum(3010, 3020, 3030, 3040, 3050, 3060, 3070, 3080, 3090, 3100, 3110, 3120, 3130, 3140, 3150, 3160)",subtotal,18,Cash Receipts by Source,3170,City of Tshwane,TSH,30156100741
+Audited Actual,AUDA,2019,year,2019,,heading,19,Other Cash Flows/Receipts by Source,3180,City of Tshwane,TSH,0
+Audited Actual,AUDA,2019,year,2019,,line_item,20,Transfer receipts - capital,3190,City of Tshwane,TSH,2089119435
+Audited Actual,AUDA,2019,year,2019,,line_item,21,Contributions recognised - capital & Contributed assets,3200,City of Tshwane,TSH,0
+Audited Actual,AUDA,2019,year,2019,,line_item,22,Proceeds on disposal of PPE,3210,City of Tshwane,TSH,34227968
+Audited Actual,AUDA,2019,year,2019,,line_item,23,Short term loans,3220,City of Tshwane,TSH,0
+Audited Actual,AUDA,2019,year,2019,,line_item,24,Borrowing long term/refinancing,3230,City of Tshwane,TSH,1500000000
+Audited Actual,AUDA,2019,year,2019,,line_item,25,Increase (decrease) in consumer deposits,3240,City of Tshwane,TSH,-352553440
+Audited Actual,AUDA,2019,year,2019,,line_item,26,Decrease (Increase) in non-current debtors,3250,City of Tshwane,TSH,0
+Audited Actual,AUDA,2019,year,2019,,line_item,27,Decrease (increase) other non-current receivables,3260,City of Tshwane,TSH,18723201
+Audited Actual,AUDA,2019,year,2019,,line_item,28,Decrease (increase) in non-current investments,3270,City of Tshwane,TSH,-799387236
+Audited Actual,AUDA,2019,year,2019,"sum(3190, 3200, 3210, 3220, 3230, 3240, 3250, 3260, 3270, 3170)",subtotal,29,Total Cash Receipts by Source,3280,City of Tshwane,TSH,32646230669
+Audited Actual,AUDA,2019,year,2019,,heading,30,Cash Payments by Type,4000,City of Tshwane,TSH,0
+Audited Actual,AUDA,2019,year,2019,,line_item,31,Employee related costs,4010,City of Tshwane,TSH,9043411266
+Audited Actual,AUDA,2019,year,2019,,line_item,32,Remuneration of councillors,4020,City of Tshwane,TSH,120589758
+Audited Actual,AUDA,2019,year,2019,,line_item,33,Collection costs,4030,City of Tshwane,TSH,0
+Audited Actual,AUDA,2019,year,2019,,line_item,34,Interest paid,4040,City of Tshwane,TSH,1538410885
+Audited Actual,AUDA,2019,year,2019,,line_item,35,Bulk purchases - Electricity,4050,City of Tshwane,TSH,7587548559
+Audited Actual,AUDA,2019,year,2019,,line_item,36,Bulk purchases - Water & Sewer,4060,City of Tshwane,TSH,2671390082
+Audited Actual,AUDA,2019,year,2019,,line_item,37,Other materials,4070,City of Tshwane,TSH,528142371
+Audited Actual,AUDA,2019,year,2019,,line_item,38,Contracted services,4080,City of Tshwane,TSH,3078275540
+Audited Actual,AUDA,2019,year,2019,,line_item,39,Grants and subsidies paid - other municipalities,4090,City of Tshwane,TSH,0
+Audited Actual,AUDA,2019,year,2019,,line_item,40,Grants and subsidies paid - other,4100,City of Tshwane,TSH,46743213
+Audited Actual,AUDA,2019,year,2019,,line_item,41,General expenses,4110,City of Tshwane,TSH,2924449472
+Audited Actual,AUDA,2019,year,2019,"sum(4010, 4020, 4030, 4040, 4050, 4060, 4070, 4080, 4090, 4100, 4110)",subtotal,42,Cash Payments by Type,4120,City of Tshwane,TSH,27538961146
+Audited Actual,AUDA,2019,year,2019,,heading,43,Other Cash Flows/Payments by Type,4130,City of Tshwane,TSH,0
+Audited Actual,AUDA,2019,year,2019,,line_item,44,Capital assets,4140,City of Tshwane,TSH,3427166987
+Audited Actual,AUDA,2019,year,2019,,line_item,45,Repayment of borrowing,4150,City of Tshwane,TSH,969749222
+Audited Actual,AUDA,2019,year,2019,,line_item,46,Other Cash Flows/Payments,4160,City of Tshwane,TSH,0
+Audited Actual,AUDA,2019,year,2019,"sum(4140, 4150, 4160, 4120)",subtotal,47,Total Cash Payments by Type,4170,City of Tshwane,TSH,31935877355
+Audited Actual,AUDA,2019,year,2019,3280 - 4170,subtotal,48,Net Increase/(Decrease) in Cash Held,4180,City of Tshwane,TSH,710353314
+Audited Actual,AUDA,2019,year,2019,,line_item,49,Cash/cash equivalents at the month/year begin:,4190,City of Tshwane,TSH,2392712763
+Audited Actual,AUDA,2019,year,2019,4180 + 4190,subtotal,50,Cash/cash equivalents at the month/year end:,4200,City of Tshwane,TSH,3103066077

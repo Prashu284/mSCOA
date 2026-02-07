@@ -1,10 +1,10 @@
 [
   {
-    "source_url": "refs/heads/main/Cash_Flow/cflow_v2_aggregate_2026-02-04T12_36_02.229335.csv",
+    "source_url": "refs/heads/main/Cash_Flow/cflow_aggregate_2026-02-07T09_55_34.823714.csv",
     "sink_folder": "mSCOA_Bronze_CashFlow",
   },
   {
-    "source_url": "refs/heads/main/Cash_Flow/cflow_v2_aggregate_2026-02-04T12_36_18.297236.csv",
+    "source_url": "refs/heads/main/Cash_Flow/cflow_aggregate_2026-02-07T09_56_20.106278.csv",
     "sink_folder": "mSCOA_Bronze_CashFlow",
   }
 ]
